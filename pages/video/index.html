@@ -4,6 +4,7 @@
         <title>MediaCenter - StreamSudo</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="" />
         <link rel="stylesheet" href="https://streamsudo.github.io/assets/css/movies.css" />
         <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
         <link href="https://streamsudo.github.io/assets/css/videojs-resolution-switcher.css" rel="stylesheet" />
@@ -42,9 +43,9 @@
             <img src="https://streamsudo.github.io/assets/img/close.png" alt="" class="close" onclick="closetrailer();" />
         </div>
         <div class="film" id="tracks">
-            <video id="film" class="video-js" controls preload="auto" width="640" height="264" poster="">
+            <iframe class="filmiframe" id="filmplayer" src="" width="100%" height="100%" frameBorder="0">
                 <p class="vjs-no-js">Pour voir cette vidéo, veuillez activer JavaScript et envisager de passer à un navigateur Web qui<a href="https://videojs.com/html5-video-support/" target="_blank">prend en charge la vidéo HTML5.</a></p>
-            </video>
+            </iframe>
             <img src="https://streamsudo.github.io/assets/img/close.png" alt="" class="close" onclick="closefilm();" />
         </div>
         <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>

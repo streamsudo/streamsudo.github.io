@@ -24,7 +24,6 @@ function film() {
 function closefilm() {
     var trailer = document.querySelector(".film");
     trailer.classList.toggle("active");
-    pause();
 }
 
 const baseurl = "https://streamsudo.github.io/";
@@ -58,7 +57,7 @@ function loadInfo() {
         document.getElementById("film_name").innerHTML = data.name;
         document.getElementById("synopsis").innerHTML = data.synopsis;
         videojs("trailer", { techOrder: ["youtube"], plugins: { videoJsResolutionSwitcher: { default: "hight" } }, poster: baseurl + data.background, sources: [{ type: "video/youtube", src: data.trailer_url }] });
-        videojs("film", { plugins: { videoJsResolutionSwitcher: { default: "hight" } }, poster: baseurl + data.background, sources: [{ type: data.format, src: data.film_url }] });
+        document.getElementById("filmplayer").setAttribute("src", data.film_url);
     })();
 }
 
