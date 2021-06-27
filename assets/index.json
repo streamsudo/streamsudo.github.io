@@ -4,11 +4,56 @@
 		{
 			"name": "The Conjuring: The Devil Made Me Do It",
 			"logo": "assets/movies/logo/1.png",
-			"poster": "assets/movies/banner/1.png",
+			"poster": "assets/movies/banner/1.jpg",
 			"background": "assets/movies/background/1.jpeg",
-			"film_url": "https://ninjastream.to/watch/8zWZ7k1z6Z6L4/the-conjuring-the-devil-made-me-do-it-2021-custom-multi-1080p-web-h264-barbie-mkv",
+			"film_url": "https://ninjastream.to/watch/8zWZ7k1z6Z6L4",
 			"trailer_url": "https://www.youtube.com/watch?v=AhCLETpE7oQ",
 			"synopsis": "Le film retrace une affaire terrifiante de meurtre et de présence maléfique mystérieuse, qui a même ébranlé les enquêteurs paranormaux, Ed et Lorraine Warren, pourtant très aguerris. Dans cette affaire, issue de leurs dossiers secrets, l'une des plus spectaculaires, Ed et Lorraine commencent par se battre pour protéger l'âme d'un petit garçon, puis basculent dans un monde radicalement inconnu. Ce sera la première fois, dans l'histoire des États-Unis, qu'un homme, soupçonné de meurtre, plaide la possession démoniaque comme ligne de défense juridique."
-		}
+		},
+		{
+			"name": "Nomadland",
+			"logo": "assets/movies/logo/2.png",
+			"poster": "assets/movies/banner/2.jpg",
+			"background": "assets/movies/background/2.jpeg",
+			"film_url": "https://ninjastream.to/watch/Ng9QnerJbAVKb",
+			"trailer_url": "https://www.youtube.com/watch?v=86dFjsrqU6o",
+			"synopsis": "Après avoir tout perdu pendant la Grande Récession, une sexagénaire se lance dans un voyage à travers l'Ouest américain, vivant comme un nomade des temps modernes."
+		},
+		{
+			"name": "Cruella",
+			"logo": "assets/movies/logo/3.png",
+			"poster": "assets/movies/banner/3.jpg",
+			"background": "assets/movies/background/3.jpeg",
+			"film_url": "https://ninjastream.to/watch/k4rZebRormjdb",
+			"trailer_url": "https://www.youtube.com/watch?v=NglMdBHHDqk",
+			"synopsis": "Londres, années 70, en plein mouvement punk rock. Escroc pleine de talent, Estella est résolue à se faire un nom dans le milieu de la mode. Elle se lie d’amitié avec deux jeunes vauriens qui apprécient ses compétences d’arnaqueuse et mène avec eux une existence criminelle dans les rues de Londres. Un jour, ses créations se font remarquer par la baronne von Hellman, une grande figure de la mode, terriblement chic et horriblement snob. Mais leur relation va déclencher une série de révélations qui amèneront Estella à se laisser envahir par sa part sombre, au point de donner naissance à l’impitoyable Cruella, une brillante jeune femme assoiffée de mode et de vengeance…"
+		},
+		{
+			"name": "Sans un bruit",
+			"logo": "assets/movies/logo/4.png",
+			"poster": "assets/movies/banner/4.jpg",
+			"background": "assets/movies/background/4.jpeg",
+			"film_url": "https://ninjastream.to/watch/P0RQw4p82ZG34",
+			"trailer_url": "https://www.youtube.com/watch?v=OfImjmzcvLA",
+			"synopsis": "Une famille tente de survivre sous la menace de mystérieuses créatures qui attaquent au moindre bruit. S’ils vous entendent, il est déjà trop tard."
+		},
+		{
+			"name": "Un Espion ordinaire",
+			"logo": "assets/movies/logo/none.jpeg",
+			"poster": "assets/movies/banner/5.jpg",
+			"background": "assets/movies/background/5.jpeg",
+			"film_url": "https://ninjastream.to/watch/goVAdonaNmJnE",
+			"trailer_url": "https://www.youtube.com/watch?v=19K2K1P4us4",
+			"synopsis": "1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques…"
+		},
+		{
+			"name": "Anna",
+			"logo": "assets/movies/logo/6.png",
+			"poster": "assets/movies/banner/6.jpg",
+			"background": "assets/movies/background/6.jpeg",
+			"film_url": "https://ninjastream.to/watch/9B6Z46M56AJGj",
+			"trailer_url": "https://www.youtube.com/watch?v=w4y9vApY8Mw",
+			"synopsis": "Les Matriochka sont des poupées russes qui s’emboîtent les unes dans les autres. Chaque poupée en cache une autre. Anna est une jolie femme de 24 ans, mais qui est-elle vraiment et combien de femmes se cachent en elle ? Est-ce une simple vendeuse de poupées sur le marché de Moscou ? Un top model qui défile à Paris ? Une tueuse qui ensanglante Milan ? Un flic corrompu ? Un agent double ? Ou tout simplement une redoutable joueuse d’échecs ? Il faudra attendre la fin de la partie pour savoir qui est vraiment Anna et qui est « échec et mat »."
+		}			
 	]
 }
