@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>StreamSudo — Le N°1 des sites de streaming</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Первичная мета-теги -->
+        <meta name="title" content="StreamSudo — Le N°1 des sites de streaming">
+        <meta name="description" content="StreamSudo - Le meilleur site de streaming gratuit au niveau francophone. Appréciez tous vos films préférés, vos séries, votre popcorn et bien plus encore...">
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://streamsudo.github.io/">
+        <meta property="og:title" content="StreamSudo — Le N°1 des sites de streaming">
+        <meta property="og:description" content="StreamSudo - Le meilleur site de streaming gratuit au niveau francophone. Appréciez tous vos films préférés, vos séries, votre popcorn et bien plus encore...">
+        <meta property="og:image" content="https://streamsudo.github.io/assets/img/banner.jpeg">
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://streamsudo.github.io/">
+        <meta property="twitter:title" content="StreamSudo — Le N°1 des sites de streaming">
+        <meta property="twitter:description" content="StreamSudo - Le meilleur site de streaming gratuit au niveau francophone. Appréciez tous vos films préférés, vos séries, votre popcorn et bien plus encore...">
+        <meta property="twitter:image" content="https://streamsudo.github.io/assets/img/banner.jpeg">
+        <!-- CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://streamsudo.github.io/assets/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="https://streamsudo.github.io/assets/css/simple-line-icons.min.css" />
+        <link rel="stylesheet" href="https://streamsudo.github.io/assets/css/style.css" />
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="https://streamsudo.github.io/assets/favicons/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon.png" />
+        <link rel="apple-touch-icon" sizes="57x57" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-180x180.png" />
+    </head>
+    <body id="page-top" onload="loadInfo();">
+        <a class="menu-toggle rounded" href="#">
+            <i class="fa fa-bars"></i>
+        </a>
+        <nav id="sidebar-wrapper">
+            <ul class="sidebar-nav no-select">
+                <li class="sidebar-brand">
+                    <a class="js-scroll-trigger" href="#page-top">StreamSudo</a>
+                </li>
+                <li class="sidebar-nav-item">
+                    <a class="js-scroll-trigger" href="#NewsFilms">Nouveaux films</a>
+                </li>
+                <li class="sidebar-nav-item">
+                    <a class="js-scroll-trigger" href="#FamousNow">Films à la une</a>
+                </li>
+                <li class="sidebar-nav-item">
+                    <a class="js-scroll-trigger" href="#MesFilms">Mon Historique</a>
+                </li>
+                <li class="sidebar-nav-item">
+                    <a class="js-scroll-trigger" href="pages/search/">Rechercher un film</a>
+                </li>
+                <br class="no-select" />
+                <br class="no-select" />
+                <li class="sidebar-nav-item">
+                    <a class="js-scroll-trigger" style="color: #28a745 !important;" href="pages/wallet/">Faire une donation</a>
+                </li>
+                <li class="sidebar-nav-item" id="uptime"></li>
+            </ul>
+        </nav>
+
+        <!-- Заголовок -->
+        <header class="masthead d-flex">
+            <div class="container text-center my-auto">
+                <h1 class="mb-1">StreamSudo</h1>
+                <h3 class="mb-5">
+                    <em>Le meilleur cinéma gratuit</em>
+                </h3>
+                <a class="btn btn-primary btn-xl js-scroll-trigger no-select" href="pages/search/">Rechercher un film</a>
+            </div>
+            <div class="overlay"></div>
+        </header>
+
+        <!-- Новости Фильмы Раздел Начать -->
+        <section id="NewsFilms">
+            <div class="Container">
+                <h2>Derniers films ajoutés</h2>
+                <div class="row Movies no-select" id="newsposter"></div>
+            </div>
+        </section>
+        <!-- Новости фильмы -->
+
+        <!-- Знаменитые фильмографические раздел Начать -->
+        <section id="FamousNow">
+            <div class="Container">
+                <h2>Populaires en ce moment</h2>
+                <div class="row Movies" id="popposter"></div>
+            </div>
+        </section>
+        <!-- Знаменитые фильмографические секции -->
+
+        <!-- История фильмов Раздел Начать -->
+        <section id="MesFilms">
+            <div class="Container">
+                <h2>En cours de lecture</h2>
+                <div class="row Movies no-select" id="mesfilms"></div>
+            </div>
+        </section>
+        <!-- История фильмов -->
+
+        <!-- Старт раздела нижнего колонтитула -->
+        <footer id="footer" class="no-select">
+            <i class="social-icon fa fa-telegram"></i>
+            <i class="social-icon fa fa-twitter"></i>
+            <i class="social-icon fa fa-instagram"></i>
+            <a href="mailto:"><i class="social-icon fa fa-envelope"></i></a>
+            <a href="https://github.com/streamsudo/" target="_blank"><i class="social-icon fa fa-github"></i></a>
+            <p style="cursor: text;" id="mentions"></p>
+        </footer>
+        <!-- конец нижнего колонтитула -->
+
+        <!-- Прокручивать -->
+        <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+            <i class="fa fa-arrow-up"></i>
+        </a>
+
+        <!-- JavaScript -->
+        <script src="https://streamsudo.github.io/assets/js/jquery-3.5.1.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="https://streamsudo.github.io/assets/js/jquery.easing.min.js"></script>
+        <script src="https://streamsudo.github.io/assets/js/main.js"></script>
+    </body>
+</html>

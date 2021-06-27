@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>MediaCenter - StreamSudo</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="https://streamsudo.github.io/assets/css/movies.css" />
+        <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
+        <link href="https://streamsudo.github.io/assets/css/videojs-resolution-switcher.css" rel="stylesheet" />
+        <!-- Favicons -->
+        <link rel="shortcut icon" href="https://streamsudo.github.io/assets/favicons/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon.png" />
+        <link rel="apple-touch-icon" sizes="57x57" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="76x76" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-76x76.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="120x120" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-120x120.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-144x144.png" />
+        <link rel="apple-touch-icon" sizes="152x152" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-152x152.png" />
+        <link rel="apple-touch-icon" sizes="180x180" href="https://streamsudo.github.io/assets/favicons/apple-touch-icon-180x180.png" />
+    </head>
+    <body onload="loadInfo();">
+        <header>
+            <a href="javascript:void(0);" class="logo no-select"><img id="logo_film" src="" alt="" /></a>
+            <div class="toggle no-select">
+                <a href="https://streamsudo.github.io/"><img src="https://streamsudo.github.io/assets/img/toggle.png" alt="" /></a>
+            </div>
+        </header>
+        <div class="banner">
+            <div class="content">
+                <h2><span id="film_name"></span></h2>
+                <p id="synopsis"></p>
+                <a href="javascript:void(0);" class="play no-select" onclick="trailer();"><img src="https://streamsudo.github.io/assets/img/play.png" alt="" />La bande annonce</a><br class="no-select" />
+                <br class="no-select" />
+                <a href="javascript:void(0);" class="play no-select" onclick="film();"><img src="https://streamsudo.github.io/assets/img/play.png" alt="" />Regarder le film</a>
+            </div>
+        </div>
+        <div class="trailer">
+            <video id="trailer" class="video-js" controls preload="auto" width="640" height="264" poster="">
+                <p class="vjs-no-js">Pour voir cette vidéo, veuillez activer JavaScript et envisager de passer à un navigateur Web qui<a href="https://videojs.com/html5-video-support/" target="_blank">prend en charge la vidéo HTML5.</a></p>
+            </video>
+            <img src="https://streamsudo.github.io/assets/img/close.png" alt="" class="close" onclick="closetrailer();" />
+        </div>
+        <div class="film" id="tracks">
+            <video id="film" class="video-js" controls preload="auto" width="640" height="264" poster="">
+                <p class="vjs-no-js">Pour voir cette vidéo, veuillez activer JavaScript et envisager de passer à un navigateur Web qui<a href="https://videojs.com/html5-video-support/" target="_blank">prend en charge la vidéo HTML5.</a></p>
+            </video>
+            <img src="https://streamsudo.github.io/assets/img/close.png" alt="" class="close" onclick="closefilm();" />
+        </div>
+        <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
+        <script src="https://streamsudo.github.io/assets/js/videojs-resolution-switcher.min.js"></script>
+        <script src="https://streamsudo.github.io/assets/js/youtube.min.js"></script>
+        <script src="https://streamsudo.github.io/assets/js/movies.js"></script>
+    </body>
+</html>
