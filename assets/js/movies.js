@@ -30,7 +30,7 @@ function closefilm() {
 const baseurl = "https://streamsudo.github.io/";
 
 const Info = async () => {
-    url = baseurl + "assets/index.json";
+    url =  "../../assets/index.json";
     if (typeof url === "undefined") {
         console.log("Aucune url définie...");
     } else {
