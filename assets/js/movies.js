@@ -27,6 +27,8 @@ function closefilm() {
 }
 
 const baseurl = "https://streamsudo.github.io/";
+const baseytb = "https://www.youtube.com/watch?v=";
+const baseplayer = "https://ninjastream.to/watch/";
 
 const Info = async () => {
     url =  "../../assets/index.json";
@@ -53,11 +55,10 @@ function loadInfo() {
         document.title = data.name + " - Mickey01";
         document.querySelector('meta[name="description"]').setAttribute("content", data.synopsis);
         document.getElementsByClassName("banner")[0].style.background = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(" + baseurl + data.background + ")";
-        document.getElementById("logo_film").setAttribute("src", baseurl + data.logo);
         document.getElementById("film_name").innerHTML = data.name;
         document.getElementById("synopsis").innerHTML = data.synopsis;
-        videojs("trailer", { techOrder: ["youtube"], plugins: { videoJsResolutionSwitcher: { default: "hight" } }, poster: baseurl + data.background, sources: [{ type: "video/youtube", src: data.trailer_url }] });
-        document.getElementById("filmplayer").setAttribute("src", data.film_url);
+        videojs("trailer", { techOrder: ["youtube"], plugins: { videoJsResolutionSwitcher: { default: "hight" } }, poster: baseurl + data.background, sources: [{ type: "video/youtube", src: baseytb + data.trailer_url }] });
+        document.getElementById("filmplayer").setAttribute("src", baseplayer + data.film_url);
     })();
 }
 
