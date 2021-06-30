@@ -136,6 +136,62 @@
 			"film_url": "JdpmLpz7Lme7K",
 			"trailer_url": "OB0Kw7RAcKo",
 			"synopsis": "Kingsman, l’élite du renseignement britannique en costume trois pièces, fait face à une menace sans précédent. Alors qu’une bombe s’abat et détruit leur quartier général, les agents font la découverte d’une puissante organisation alliée nommée Statesman, fondée il y a bien longtemps aux Etats-Unis. Face à cet ultime danger, les deux services d’élite n’auront d’autre choix que de réunir leurs forces pour sauver le monde des griffes d’un impitoyable ennemi, qui ne reculera devant rien dans sa quête destructrice."
-		}
+		},
+		{
+			"name": "Spider-Man : Far From Home",
+			"poster": "assets/movies/banner/18.jpg",
+			"background": "assets/movies/background/18.jpeg",
+			"film_url": "P0RQw42ypZG34",
+			"trailer_url": "SFoCPkEfHEM",
+			"synopsis": "Peter et ses amis passent leurs vacances d’été en Europe. Mais ils n’auront pas vraiment l’occasion de se reposer puisque Peter accepte d’aider Nick Fury pour débusquer les mystérieuses créatures qui sont la cause des catastrophes naturelles qui frappent le continent."
+		},
+		{
+			"name": "Avengers : Endgame",
+			"poster": "assets/movies/banner/19.jpg",
+			"background": "assets/movies/background/19.jpeg",
+			"film_url": "3YMmkYKWaQByv",
+			"trailer_url": "QmXCupp4fs8",
+			"synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini , les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvérisé « la moitié de toute forme de vie dans l'Univers », Captain America, Thor, Bruce Banner, Natasha Romanoff, War Machine, Tony Stark, Nébula et Rocket, vont essayer de trouver une solution pour ramener leurs coéquipiers disparus et vaincre Thanos en se faisant aider par Ronin alias Clint Barton, Captain Marvel et Ant-Man."
+		},
+		{
+			"name": "Kingsman : Services secrets",
+			"poster": "assets/movies/banner/20.jpg",
+			"background": "assets/movies/background/20.jpeg",
+			"film_url": "8zWZ7kL73Z6L4",
+			"trailer_url": "dSeA6Mwlv6A",
+			"synopsis": "Kingsman, l’élite du renseignement britannique en costumes trois pièces, est à la recherche de sang neuf. Pour recruter leur nouvel agent secret, elle doit faire subir un entrainement de haut vol à de jeunes privilégiés aspirant au job rêvé. L’un d’eux semble être le candidat « imparfaitement idéal » : un jeune homme impertinent de la banlieue londonienne nommé Eggsy. Ces super-espions parviendront-ils à contrer la terrible menace que fait peser sur le monde l’esprit torturé du criminel Richmond Valentine, génie de la technologie ?"
+		},
+		{
+			"name": "Lucy",
+			"poster": "assets/movies/banner/21.jpg",
+			"background": "assets/movies/background/21.jpeg",
+			"film_url": "w1ymMDMbdZJrb",
+			"trailer_url": "7gPrNpHaFX8",
+			"synopsis": "Lucy, une jeune étudiante ordinaire, se fait kidnapper. À son réveil, elle découvre que les membres d’une organisation criminelle lui ont inséré un paquet de drogue dans l’estomac dans le but de lui faire passer la frontière. Mais lorsqu’à la suite d’un coup porté à son ventre le produit se déverse dans son corps et s’implante dans son système, la jeune femme en subit les étonnants effets. Cette substance synthétique lui permet de décupler ses capacités intellectuelles et physiques. Devenue un génie autant qu’une véritable machine de guerre, Lucy dispose désormais de pouvoirs illimités et surhumains…"
+		},
+		{
+			"name": "Snowden",
+			"poster": "assets/movies/banner/22.jpg",
+			"background": "assets/movies/background/22.jpeg",
+			"film_url": "goVAdoYwRmJnE",
+			"trailer_url": "cJ8YXaLK73o",
+			"synopsis": "Patriote idéaliste et enthousiaste, le jeune Edward Snowden semble réaliser son rêve quand il rejoint les équipes de la CIA puis de la NSA. Il découvre alors au cœur des Services de Renseignements américains l'ampleur insoupçonnée de la cyber-surveillance. Violant la Constitution, soutenue par de grandes entreprises, la NSA collecte des montagnes de données et piste toutes les formes de télécommunications à un niveau planétaire. Choqué par cette intrusion systématique dans nos vies privées, Snowden décide de rassembler des preuves et de tout divulguer. Devenu lanceur d'alerte, il sacrifiera sa liberté et sa vie privée. En juin 2013, deux journalistes prennent le risque de le rencontrer dans une chambre d'hôtel à Hong Kong. Une course contre la montre s'engage pour analyser les preuves irréfutables présentées par Snowden avant leur publication. Les révélations qui vont être faites dans cette pièce seront au cœur du plus grand scandale d'espionnage de l'histoire des États-Unis."
+		},
+		{
+			"name": "Freaky",
+			"poster": "assets/movies/banner/23.jpg",
+			"background": "assets/movies/background/23.jpeg",
+			"film_url": "P0RQw42MEZG34",
+			"trailer_url": "NUIylaW9TiU",
+			"synopsis": "Millie Kessler, une adolescente de 17 ans, occupée à faire bonne figure dans son très élitiste lycée, Blissfield High, devient la nouvelle cible du Boucher, un tueur en série tristement notoire. Son année de Terminale va alors devenir le cadet de ses soucis. Lorsque, sous l’effet du poignard antique du Boucher ils se réveillent dans le corps de l’autre, Millie n’a alors que 24 heures pour retrouver son corps afin de ne pas rester coincée pour le restant de ses jours dans la peau d’un tueur en série d’une cinquantaine d’années. Tâche délicate étant donné qu’elle ressemble désormais à une armoire à glace psychopathe, recherché par la police et cible d’une chasse à l’homme locale… alors que le Boucher, lui, dans la peau de la jeune fille, est bien décidé à célébrer un retour en fanfare dans un bain de sang."
+		},
+		{
+			"name": "John Wick",
+			"poster": "assets/movies/banner/24.jpg",
+			"background": "assets/movies/background/24.jpeg",
+			"film_url": "dwPAVxzxzZR09",
+			"trailer_url": "pWK5crMuhHY",
+			"synopsis": "Depuis la mort de sa femme bien‐aimée, John Wick passe ses journées à retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il mène une vie sans histoire, jusqu’à ce qu’un malfrat sadique nommé Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n’acceptant pas qu’on lui résiste, s’introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy… John remonte la piste de Iosef jusqu’à New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d’un grand patron de la pègre, Viggo Tarasof. La rumeur se répand rapidement dans le milieu : le légendaire tueur cherche Iosef. Viggo met à prix la tête de John : quiconque l’abattra touchera une énorme récompense. John a désormais tous les assassins de New York aux trousses."
+		}		
 	]
 }
