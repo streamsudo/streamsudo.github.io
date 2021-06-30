@@ -2,6 +2,38 @@
 	"Owner": "StreamSudo",
 	"data": [
 		{
+			"name": "Adieu les cons",
+			"poster": "assets/movies/banner/16.jpg",
+			"background": "assets/movies/background/16.jpeg",
+			"film_url": "LznARk0EqQ6xd",
+			"trailer_url": "9uotsv-vf6I",
+			"synopsis": "Lorsque Suze Trappet apprend à 43 ans qu'elle est sérieusement malade, elle décide de partir à la recherche de l'enfant qu'elle a été forcée d'abandonner quand elle avait 15 ans. Sa quête administrative va lui faire croiser JB, quinquagénaire en plein burn out, et M. Blin, archiviste aveugle d'un enthousiasme impressionnant. À eux trois, ils se lancent dans une quête aussi spectaculaire qu'improbable."
+		},	
+		{
+			"name": "Nobody",
+			"poster": "assets/movies/banner/12.jpg",
+			"background": "assets/movies/background/12.jpeg",
+			"film_url": "dloAB14K2mzRJ",
+			"trailer_url": "ysdUaLkkFO4",
+			"synopsis": "Hutch Mansell, un père et un mari frustré, totalement déconsidéré par sa famille, se contente d’encaisser les coups, sans jamais les rendre. Il n’est rien. Une nuit, alors que deux cambrioleurs pénètrent chez lui, il fait le choix de ne pas intervenir, plutôt que de risquer une escalade sanglante. Une décision qui le discrédite définitivement aux yeux de son fils Blake, et qui semble l’éloigner encore plus de sa femme Becca. Cet incident réveille chez cet homme blessé des instincts larvés qui vont le propulser sur une voie violente, révélant des zones d’ombres et des compétences létales insoupçonnées. Dans une avalanche de coups de poings, de fusillades et de crissements de pneus, il va tout faire pour tirer sa famille des griffes d’un redoutable ennemi et s’assurer que, plus jamais, personne ne le prenne pour un moins que rien."
+		},
+		{
+			"name": "D'où L'on Vient",
+			"poster": "assets/movies/banner/9.jpg",
+			"background": "assets/movies/background/9.jpeg",
+			"film_url": "RaqAlLB4KAbXp",
+			"trailer_url": "KxPWqAxHDfw",
+			"synopsis": "Au coeur de la communauté dominicaine aux Etats-Unis, Benny travaille pour le père de Nina qui gère une entreprise de taxis. Le jeune homme rêve d'ouvrir sa propre société. Il doit faire face à la forte désapprobation du père de la jeune fille à l'égard de leur union."
+		},
+		{
+			"name": "Un homme en colère",
+			"poster": "assets/movies/banner/8.jpg",
+			"background": "assets/movies/background/8.jpeg",
+			"film_url": "5YRQoRPnrA0aN",
+			"trailer_url": "p3Pv8F3k0e8",
+			"synopsis": "Un convoyeur de fond, fraîchement engagé, surprend ses collègues par l’incroyable précision de ses tirs de riposte, alors qu’ils subissent les assauts de braqueurs expérimentés. Tous se demandent désormais qui il est, d’où il vient et pourquoi il est là."
+		},
+		{
 			"name": "The Conjuring: The Devil Made Me Do It",
 			"poster": "assets/movies/banner/1.jpg",
 			"background": "assets/movies/background/1.jpeg",
@@ -48,6 +80,62 @@
 			"film_url": "9B6Z46M56AJGj",
 			"trailer_url": "w4y9vApY8Mw",
 			"synopsis": "Les Matriochka sont des poupées russes qui s’emboîtent les unes dans les autres. Chaque poupée en cache une autre. Anna est une jolie femme de 24 ans, mais qui est-elle vraiment et combien de femmes se cachent en elle ? Est-ce une simple vendeuse de poupées sur le marché de Moscou ? Un top model qui défile à Paris ? Une tueuse qui ensanglante Milan ? Un flic corrompu ? Un agent double ? Ou tout simplement une redoutable joueuse d’échecs ? Il faudra attendre la fin de la partie pour savoir qui est vraiment Anna et qui est « échec et mat »."
-		}			
+		},
+		{
+			"name": "The Father",
+			"poster": "assets/movies/banner/7.jpg",
+			"background": "assets/movies/background/7.jpeg",
+			"film_url": "apwQEgazdmPKe",
+			"trailer_url": "hQupt8RDaMI",
+			"synopsis": "Alors qu’il vieillit et devient de moins en moins autonome, un père refuse l’aide de sa fille. Voyant la situation se dégrader, il commence à douter de ses proches, de son propre esprit et même de ce qui est réel."
+		},
+		{
+			"name": "Wonder Woman 1984",
+			"poster": "assets/movies/banner/10.jpg",
+			"background": "assets/movies/background/10.jpeg",
+			"film_url": "goVAdoYgxmJnE",
+			"trailer_url": "rhlHVvmVf04",
+			"synopsis": "Suite des aventures de Diana Prince, alias Wonder Woman, Amazone devenue une super-héroïne dans notre monde. Après la Première guerre mondiale, direction les années 80 ! Cette fois, Wonder Woman doit affronter deux nouveaux ennemis, particulièrement redoutables : Max Lord et Cheetah."
+		},
+		{
+			"name": "Drunk",
+			"poster": "assets/movies/banner/11.jpg",
+			"background": "assets/movies/background/11.jpeg",
+			"film_url": "YnqAKlqORQ2PJ",
+			"trailer_url": "mgk5YrcCzNk",
+			"synopsis": "Quatre amis décident de mettre en pratique la théorie d’un psychologue norvégien selon laquelle l’homme aurait dès la naissance un déficit d’alcool dans le sang. Avec une rigueur scientifique, chacun relève le défi en espérant tous que leur vie n’en sera que meilleure ! Si dans un premier temps les résultats sont encourageants, la situation devient rapidement hors de contrôle."
+		},
+		{
+			"name": "Hitman & Bodyguard",
+			"poster": "assets/movies/banner/13.jpg",
+			"background": "assets/movies/background/13.jpeg",
+			"film_url": "6RbAx1DzwQEvV",
+			"trailer_url": "wgAOlOcEAnQ",
+			"synopsis": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves… De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer."
+		},
+		{
+			"name": "Pierre Lapin",
+			"poster": "assets/movies/banner/14.jpg",
+			"background": "assets/movies/background/14.jpeg",
+			"film_url": "k4rZebLpdmjdb",
+			"trailer_url": "-MidSI9AVmk",
+			"synopsis": "Le petit lapin préféré des jeunes lecteurs depuis des générations est désormais le héros d’un film plein d’aventures et d’espièglerie ! L'éternelle lutte de Pierre Lapin avec M. McGregor pour les légumes du potager va atteindre des sommets. Sans parler de leur rivalité pour plaire à cette charmante voisine qui adore les animaux… Bien au-delà du jardin, de nombreuses péripéties les entraîneront de la magnifique région des lacs en Angleterre jusqu’à Londres !"
+		},
+		{
+			"name": "Seul sur Mars",
+			"poster": "assets/movies/banner/15.jpg",
+			"background": "assets/movies/background/15.jpeg",
+			"film_url": "RkaA5Y6MnAVnp",
+			"trailer_url": "-T-UoabcaH5A",
+			"synopsis": "Au cours d’une mission spatiale habitée sur Mars, et à la suite d’un violent orage, l’astronaute Mark Watney est laissé pour mort et abandonné sur place par son équipage. Mais Watney a survécu et se retrouve seul sur cette planète hostile. Avec de maigres provisions, il ne doit compter que sur son ingéniosité, son bon sens et son intelligence pour survivre et trouver un moyen d’alerter la Terre qu’il est encore vivant. À des millions de kilomètres de là, la NASA et une équipe de scientifiques internationaux travaillent sans relâche pour ramener « le Martien » sur terre, pendant que, en parallèle, ses coéquipiers tentent secrètement d’organiser une audacieuse voire impossible mission de sauvetage."
+		},
+		{
+			"name": "Kingsman : Le Cercle d'or",
+			"poster": "assets/movies/banner/17.jpg",
+			"background": "assets/movies/background/17.jpeg",
+			"film_url": "JdpmLpz7Lme7K",
+			"trailer_url": "OB0Kw7RAcKo",
+			"synopsis": "Kingsman, l’élite du renseignement britannique en costume trois pièces, fait face à une menace sans précédent. Alors qu’une bombe s’abat et détruit leur quartier général, les agents font la découverte d’une puissante organisation alliée nommée Statesman, fondée il y a bien longtemps aux Etats-Unis. Face à cet ultime danger, les deux services d’élite n’auront d’autre choix que de réunir leurs forces pour sauver le monde des griffes d’un impitoyable ennemi, qui ne reculera devant rien dans sa quête destructrice."
+		}
 	]
 }
