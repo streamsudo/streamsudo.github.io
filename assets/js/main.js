@@ -127,7 +127,7 @@ function loadPop() {
                 localStorage.setItem("popularity", pop);
             }
         }
-        for (var i = 0; i < info.data.length; i++) {
+        for (var i = 0; i < 12; i++) {
             var sscore = localStorage.getItem("popularity");
             sscore = sscore.split(",", info.data.length);
             var data = info.data[sscore[i]];
