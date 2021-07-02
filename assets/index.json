@@ -154,6 +154,14 @@
 			"synopsis": "Le petit lapin préféré des jeunes lecteurs depuis des générations est désormais le héros d’un film plein d’aventures et d’espièglerie ! L'éternelle lutte de Pierre Lapin avec M. McGregor pour les légumes du potager va atteindre des sommets. Sans parler de leur rivalité pour plaire à cette charmante voisine qui adore les animaux… Bien au-delà du jardin, de nombreuses péripéties les entraîneront de la magnifique région des lacs en Angleterre jusqu’à Londres !"
 		},
 		{
+			"name": "Tenet",
+			"poster": "assets/movies/banner/41.jpg",
+			"background": "assets/movies/background/41.jpeg",
+			"film_url": "vrBA1pg5Vmb8o",
+			"trailer_url": "PZRH3NebF3s",
+			"synopsis": "Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…"
+		},		
+		{
 			"name": "Seul sur Mars",
 			"poster": "assets/movies/banner/15.jpg",
 			"background": "assets/movies/background/15.jpeg",
@@ -320,6 +328,14 @@
 			"film_url": "w1ymMD4vdZJrb",
 			"trailer_url": "R8cOK5mE5P8",
 			"synopsis": "Rayane est un jeune flic, trouillard et maladroit, sans cesse moqué par les autres policiers. Le jour où son médecin lui apprend, à tort, qu’il n’a plus que trente jours à vivre, il comprend vite qu'il s'agit de sa dernière chance de devenir un héros, à la fois au sein de son commissariat et surtout pour impressionner sa collègue Stéphanie. L’éternel craintif se transforme alors en véritable tête brûlée, qui prendra tous les risques afin de coincer un gros caïd de la drogue..."
+		},
+		{
+			"name": "365 jours",
+			"poster": "assets/movies/banner/42.jpg",
+			"background": "assets/movies/background/42.jpeg",
+			"film_url": "dloAB1LWEmzRJ",
+			"trailer_url": "4GMBhwRhHgM",
+			"synopsis": "Massimo est membre de la mafia sicilienne et Laura est directrice des ventes. Cette dernière ne se doute pas de ce qui l'attend lors d'un voyage en Sicile destiné à sauver son couple : Massimo la kidnappe et lui donne 365 jours pour qu'elle tombe amoureuse de lui."
 		}		
 	]
 }
