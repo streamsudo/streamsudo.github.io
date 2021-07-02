@@ -74,9 +74,9 @@ function loadInfo() {
                 document.getElementById("newsposter").innerHTML += '<div class="col-lg-4 col-md-6"> <div class="row" id="news-' + String(i) + '"> </div> </div>';
             }
             if (g % 2 === 0) {
-                document.getElementById("news-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(i) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                document.getElementById("news-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(i) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             } else {
-                document.getElementById("news-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(i) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                document.getElementById("news-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(i) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             }
         }
     })();
@@ -136,9 +136,9 @@ function loadPop() {
                 document.getElementById("popposter").innerHTML += '<div class="col-lg-4 col-md-6"> <div class="row" id="pop-' + String(i) + '"> </div> </div>';
             }
             if (g % 2 === 0) {
-                document.getElementById("pop-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                document.getElementById("pop-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             } else {
-                document.getElementById("pop-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                document.getElementById("pop-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             }
             localStorage.removeItem("film-" + i);
         }
@@ -160,9 +160,9 @@ function loadHistory() {
                     document.getElementById("mesfilms").innerHTML += '<div class="col-lg-4 col-md-6"> <div class="row" id="history-' + String(i) + '"> </div> </div>';
                 }
                 if (g % 2 === 0) {
-                    document.getElementById("history-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                    document.getElementById("history-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
                 } else {
-                    document.getElementById("history-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" data-src="' + baseurl + data.poster + '" /></a> </div>';
+                    document.getElementById("history-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
                 }
             }
         }
