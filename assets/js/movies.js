@@ -52,7 +52,7 @@ function loadInfo() {
         var i = location.hash.replace("#", "");
         var i = parseInt(i);
         var data = info.data[i];
-        document.title = data.name + " - Mickey01";
+        document.title = data.name + " - StreamSudo";
         document.querySelector('meta[name="description"]').setAttribute("content", data.synopsis);
         document.getElementsByClassName("banner")[0].style.background = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(" + baseurl + data.background + ")";
         document.getElementById("film_name").innerHTML = data.name;

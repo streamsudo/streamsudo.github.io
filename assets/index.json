@@ -2,6 +2,46 @@
 	"Owner": "StreamSudo",
 	"data": [
 		{
+			"name": "Black Widow",
+			"poster": "assets/movies/banner/43.jpg",
+			"background": "assets/movies/background/43.jpeg",
+			"film_url": "GeLZzXEg4AyOn",
+			"trailer_url": "GNCY3_IoIsk",
+			"synopsis": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers."
+		},
+		{
+			"name": "A Classic Horror Story",
+			"poster": "assets/movies/banner/45.jpg",
+			"background": "assets/movies/background/45.jpeg",
+			"film_url": "r6qQNpxyjmX7w",
+			"trailer_url": "PHqyFhrb3uU",
+			"synopsis": "Cinq inconnus font du co-voiturage à bord d'un camping-car, mais après un accident, ils se retrouvent dans une forêt peuplée d'êtres étranges dont il est impossible de sortir."
+		},
+		{
+			"name": "Les Croods 2 : Une nouvelle ère",
+			"poster": "assets/movies/banner/47.jpg",
+			"background": "assets/movies/background/47.jpeg",
+			"film_url": "LznAR9Npqm6xd",
+			"trailer_url": "h43qitmhLxQ",
+			"synopsis": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus… Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres."
+		},		
+		{
+			"name": "Le Dragon-Génie",
+			"poster": "assets/movies/banner/46.jpg",
+			"background": "assets/movies/background/46.jpeg",
+			"film_url": "vrBA17OVoZb8o",
+			"trailer_url": "HzH_Z_H9IFU",
+			"synopsis": "Din, un étudiant ambitieux mais sans le sou, et Long, un dragon cynique mais tout-puissant capable d'exaucer des vœux, se lancent dans une aventure délirante à travers le Shanghai d'aujourd'hui à la recherche de Lina, une amie d'enfance que Din n'a pas revue depuis longtemps. Leur périple les conduira à se poser certaines questions existentielles, car si l'on peut obtenir tout ce que l'on souhaite, il faut alors déterminer ce qui compte réellement."
+		},
+		{
+			"name": "Chasseurs de trolls : Le réveil des titans",
+			"poster": "assets/movies/banner/48.jpg",
+			"background": "assets/movies/background/48.jpeg",
+			"film_url": "e9BZaMv5kZwXx",
+			"trailer_url": "WWAwYs-yAwE",
+			"synopsis": "Arcadia peut ressembler à une ville ordinaire, mais elle se trouve au centre de lignes magiques et mystiques qui en font le point de convergence de nombreuses batailles entre créatures d'un autre monde, notamment des trolls, des extraterrestres et des sorciers. Différents héros vont maintenant faire équipe dans une aventure épique où ils devront combattre l'Ordre Arcane pour le contrôle de la magie qui les lie tous ensemble."
+		},		
+		{
 			"name": "Adieu les cons",
 			"poster": "assets/movies/banner/16.jpg",
 			"background": "assets/movies/background/16.jpeg",
@@ -25,6 +65,14 @@
 			"trailer_url": "KxPWqAxHDfw",
 			"synopsis": "Au coeur de la communauté dominicaine aux Etats-Unis, Benny travaille pour le père de Nina qui gère une entreprise de taxis. Le jeune homme rêve d'ouvrir sa propre société. Il doit faire face à la forte désapprobation du père de la jeune fille à l'égard de leur union."
 		},
+		{
+			"name": "Greenland - Le Dernier Refuge",
+			"poster": "assets/movies/banner/44.jpg",
+			"background": "assets/movies/background/44.jpeg",
+			"film_url": "GbJQP7BRlA7rw",
+			"trailer_url": "NkBX1xriXKk",
+			"synopsis": "Une comète est sur le point de s’écraser sur la Terre et de provoquer un cataclysme sans précédent. John Garrity décide de se lancer dans un périlleux voyage avec son ex-épouse Allison et leur fils Nathan pour rejoindre le dernier refuge sur Terre à l’abri du désastre. Alors que l’urgence devient absolue et que les catastrophes s’enchainent de façon effrénée, les Garrity vont être témoin du meilleur comme du pire de la part d’une humanité paniquée au milieu de ce chaos."
+		},		
 		{
 			"name": "Un homme en colère",
 			"poster": "assets/movies/banner/8.jpg",
