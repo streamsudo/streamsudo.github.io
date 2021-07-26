@@ -8,7 +8,7 @@ let webLink;
 const baseurl = "https://streamsudo.github.io/pages/video/";
 
 const Info = async () => {
-    url = "../../assets/index.json";
+    url = "https://raw.githubusercontent.com/streamsudo/streamsudo.github.io/main/_data/index.json";
     if (typeof url === "undefined") {
         console.log("Aucune url définie...");
     } else {

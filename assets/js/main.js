@@ -49,7 +49,7 @@ document.getElementById("mentions").innerHTML = "&copy; " + anyear + " - " + yea
 const baseurl = "https://streamsudo.github.io/";
 
 const Info = async () => {
-    url = "https://raw.githubusercontent.com/streamsudo/streamsudo.github.io/main/assets/index.json";
+    url = "https://raw.githubusercontent.com/streamsudo/streamsudo.github.io/main/_data/index.json";
     if (typeof url === "undefined") {
         console.log("Aucune url définie...");
     } else {
