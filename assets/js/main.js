@@ -132,6 +132,7 @@ function loadPop() {
             sscore = sscore.split(",", info.data.length);
             var data = info.data[sscore[i]];
             document.getElementById("popularity").innerHTML += '<div class="col-2"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
+            document.getElementById("popularity-mobile").innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             localStorage.removeItem("film-" + i);
         }
         localStorage.removeItem("popularity");
@@ -148,6 +149,7 @@ function loadHistory() {
             var history = localStorage.getItem("history-" + i);
             if (history != undefined) {
                 document.getElementById("history").innerHTML += '<div class="col-2"><a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a></div>';
+                document.getElementById("history-mobile").innerHTML += '<div class="col-6"><a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a></div>';
             }
         }
     })();

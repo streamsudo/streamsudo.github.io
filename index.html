@@ -90,12 +90,25 @@
         <section id="NewsFilms">
             <div class="Container">
                 <h2>Derniers films ajoutés</h2>
-                <div class="row Movies no-select" id="newsposter">
+                <div class="row Movies no-select" id="pc">
                   <div class="col-lg-12 col-md-6">
                     <div class="row">
                       {% assign c = 0 %}
                       {% for index in site.data.index.data limit:50 %}
                       <div class="col-2">
+                        <a href="https://streamsudo.github.io/pages/video/#{{c}}"><img class="lozad" id="imgposters" data-src="https://streamsudo.github.io/{{index.poster}}" /></a>
+                      </div>
+                      {% assign c = c | plus:1 %}
+                      {% endfor %}
+                    </div>
+                  </div>
+                </div>
+                <div class="row Movies no-select" id="mobile" style="display: none;">
+                  <div class="col-lg-4 col-lg-6">
+                    <div class="row">
+                      {% assign c = 0 %}
+                      {% for index in site.data.index.data limit:50 %}
+                      <div class="col-6">
                         <a href="https://streamsudo.github.io/pages/video/#{{c}}"><img class="lozad" id="imgposters" data-src="https://streamsudo.github.io/{{index.poster}}" /></a>
                       </div>
                       {% assign c = c | plus:1 %}
@@ -111,9 +124,15 @@
         <section id="FamousNow">
             <div class="Container">
                 <h2>Populaires en ce moment</h2>
-                <div class="row Movies no-select" id="popposter">
+                <div class="row Movies no-select" id="pc">
                   <div class="col-lg-12 col-md-6">
                     <div class="row" id="popularity">
+                    </div>
+                  </div>
+                </div>
+                <div class="row Movies no-select" id="mobile" style="display: none;">
+                  <div class="col-lg-4 col-lg-6">
+                    <div class="row" id="popularity-mobile">
                     </div>
                   </div>
                 </div>
@@ -125,9 +144,15 @@
         <section id="MesFilms">
             <div class="Container">
                 <h2>En cours de lecture</h2>
-                <div class="row Movies no-select" id="mesfilms">
+                <div class="row Movies no-select" id="pc">
                   <div class="col-lg-12 col-md-6">
                     <div class="row" id="history">
+                    </div>
+                  </div>
+                </div>
+                <div class="row Movies no-select" id="mobile" style="display: none;">
+                  <div class="col-lg-4 col-lg-6">
+                    <div class="row" id="history-mobile">
                     </div>
                   </div>
                 </div>

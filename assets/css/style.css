@@ -286,6 +286,15 @@ img {
   opacity: 1!important;
 }
 
+@media screen and (max-width: 769px) {
+  #pc {
+    display: none!important;
+  }
+  #mobile {
+    display: flex!important;
+  }
+}
+
 ::-webkit-scrollbar {
     width: 8px;
     height: 8px;
