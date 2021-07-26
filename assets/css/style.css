@@ -151,6 +151,32 @@ h6 {
     font-weight: 700;
 }
 
+.listall {
+  line-height: 30px;
+  background-color: transparent;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: #c1c1c1;
+  border-bottom: 1px solid #333;
+}
+
+.listall:hover {
+  line-height: 30px;
+  background-color: #313131;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: #c1c1c1;
+  border-bottom: 1px solid #333;
+}
+
+.pagination {
+  margin-bottom: 100px;
+}
+
+.page-link {
+  color: #000000;
+}
+
 /* ******************* */
 .Container {
     margin: 2% 2% 0 3%;
@@ -239,7 +265,7 @@ h6 {
     }
     .title-pc {
         display: none!important;
-    }    
+    }
 }
 
 .fade {
@@ -254,6 +280,10 @@ h6 {
   to {
     opacity: 1;
   }
+}
+
+img {
+  opacity: 1!important;
 }
 
 ::-webkit-scrollbar {

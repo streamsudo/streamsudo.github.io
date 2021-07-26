@@ -49,7 +49,7 @@ document.getElementById("mentions").innerHTML = "&copy; " + anyear + " - " + yea
 const baseurl = "https://streamsudo.github.io/";
 
 const Info = async () => {
-    url = "assets/index.json";
+    url = "https://raw.githubusercontent.com/streamsudo/streamsudo.github.io/main/assets/index.json";
     if (typeof url === "undefined") {
         console.log("Aucune url définie...");
     } else {
@@ -64,7 +64,7 @@ const Info = async () => {
     }
 };
 
-function loadInfo() {
+/* function loadInfo() {
     (async () => {
         const info = await Info();
         for (var i = 0; i < info.data.length; i++) {
@@ -80,7 +80,7 @@ function loadInfo() {
             }
         }
     })();
-}
+} */
 
 function loadPop() {
     (async () => {
@@ -131,15 +131,7 @@ function loadPop() {
             var sscore = localStorage.getItem("popularity");
             sscore = sscore.split(",", info.data.length);
             var data = info.data[sscore[i]];
-            var g = i + 1;
-            if (g % 2 != 0) {
-                document.getElementById("popposter").innerHTML += '<div class="col-lg-4 col-md-6"> <div class="row" id="pop-' + String(i) + '"> </div> </div>';
-            }
-            if (g % 2 === 0) {
-                document.getElementById("pop-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
-            } else {
-                document.getElementById("pop-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
-            }
+            document.getElementById("popularity").innerHTML += '<div class="col-2"> <a href="' + baseurl + "pages/video/#" + String(sscore[i]) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
             localStorage.removeItem("film-" + i);
         }
         localStorage.removeItem("popularity");
@@ -153,17 +145,9 @@ function loadHistory() {
         const info = await Info();
         for (var i = 0; i < info.data.length; i++) {
             var data = info.data[i];
-            var g = i + 1;
             var history = localStorage.getItem("history-" + i);
             if (history != undefined) {
-                if (g % 2 != 0) {
-                    document.getElementById("mesfilms").innerHTML += '<div class="col-lg-4 col-md-6"> <div class="row" id="history-' + String(i) + '"> </div> </div>';
-                }
-                if (g % 2 === 0) {
-                    document.getElementById("history-" + String(i - 1)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
-                } else {
-                    document.getElementById("history-" + String(i)).innerHTML += '<div class="col-6"> <a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a> </div>';
-                }
+                document.getElementById("history").innerHTML += '<div class="col-2"><a href="' + baseurl + "pages/video/" + String(history) + '"><img class="lozad" src="' + baseurl + data.poster + '" /></a></div>';
             }
         }
     })();
@@ -194,7 +178,7 @@ lozad('.lozad', {
     load: function(el) {
         el.src = el.dataset.src;
         el.onload = function() {
-            el.classList.add('fade')
+            el.classList.add('fade');
         }
     }
 }).observe()

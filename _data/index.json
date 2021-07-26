@@ -1,0 +1,389 @@
+{
+	"Owner": "StreamSudo",
+	"data": [
+		{
+			"name": "Black Widow",
+			"poster": "assets/movies/banner/43.jpg",
+			"background": "assets/movies/background/43.jpeg",
+			"film_url": "GeLZzXEg4AyOn",
+			"trailer_url": "GNCY3_IoIsk",
+			"synopsis": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers."
+		},
+		{
+			"name": "A Classic Horror Story",
+			"poster": "assets/movies/banner/45.jpg",
+			"background": "assets/movies/background/45.jpeg",
+			"film_url": "r6qQNpxyjmX7w",
+			"trailer_url": "PHqyFhrb3uU",
+			"synopsis": "Cinq inconnus font du co-voiturage à bord d'un camping-car, mais après un accident, ils se retrouvent dans une forêt peuplée d'êtres étranges dont il est impossible de sortir."
+		},
+		{
+			"name": "Les Croods 2 : Une nouvelle ère",
+			"poster": "assets/movies/banner/47.jpg",
+			"background": "assets/movies/background/47.jpeg",
+			"film_url": "LznAR9Npqm6xd",
+			"trailer_url": "h43qitmhLxQ",
+			"synopsis": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus… Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres."
+		},		
+		{
+			"name": "Le Dragon-Génie",
+			"poster": "assets/movies/banner/46.jpg",
+			"background": "assets/movies/background/46.jpeg",
+			"film_url": "vrBA17OVoZb8o",
+			"trailer_url": "HzH_Z_H9IFU",
+			"synopsis": "Din, un étudiant ambitieux mais sans le sou, et Long, un dragon cynique mais tout-puissant capable d'exaucer des vœux, se lancent dans une aventure délirante à travers le Shanghai d'aujourd'hui à la recherche de Lina, une amie d'enfance que Din n'a pas revue depuis longtemps. Leur périple les conduira à se poser certaines questions existentielles, car si l'on peut obtenir tout ce que l'on souhaite, il faut alors déterminer ce qui compte réellement."
+		},
+		{
+			"name": "Chasseurs de trolls : Le réveil des titans",
+			"poster": "assets/movies/banner/48.jpg",
+			"background": "assets/movies/background/48.jpeg",
+			"film_url": "e9BZaMv5kZwXx",
+			"trailer_url": "WWAwYs-yAwE",
+			"synopsis": "Arcadia peut ressembler à une ville ordinaire, mais elle se trouve au centre de lignes magiques et mystiques qui en font le point de convergence de nombreuses batailles entre créatures d'un autre monde, notamment des trolls, des extraterrestres et des sorciers. Différents héros vont maintenant faire équipe dans une aventure épique où ils devront combattre l'Ordre Arcane pour le contrôle de la magie qui les lie tous ensemble."
+		},		
+		{
+			"name": "Adieu les cons",
+			"poster": "assets/movies/banner/16.jpg",
+			"background": "assets/movies/background/16.jpeg",
+			"film_url": "LznARk0EqQ6xd",
+			"trailer_url": "9uotsv-vf6I",
+			"synopsis": "Lorsque Suze Trappet apprend à 43 ans qu'elle est sérieusement malade, elle décide de partir à la recherche de l'enfant qu'elle a été forcée d'abandonner quand elle avait 15 ans. Sa quête administrative va lui faire croiser JB, quinquagénaire en plein burn out, et M. Blin, archiviste aveugle d'un enthousiasme impressionnant. À eux trois, ils se lancent dans une quête aussi spectaculaire qu'improbable."
+		},
+		{
+			"name": "Nobody",
+			"poster": "assets/movies/banner/12.jpg",
+			"background": "assets/movies/background/12.jpeg",
+			"film_url": "dloAB14K2mzRJ",
+			"trailer_url": "ysdUaLkkFO4",
+			"synopsis": "Hutch Mansell, un père et un mari frustré, totalement déconsidéré par sa famille, se contente d’encaisser les coups, sans jamais les rendre. Il n’est rien. Une nuit, alors que deux cambrioleurs pénètrent chez lui, il fait le choix de ne pas intervenir, plutôt que de risquer une escalade sanglante. Une décision qui le discrédite définitivement aux yeux de son fils Blake, et qui semble l’éloigner encore plus de sa femme Becca. Cet incident réveille chez cet homme blessé des instincts larvés qui vont le propulser sur une voie violente, révélant des zones d’ombres et des compétences létales insoupçonnées. Dans une avalanche de coups de poings, de fusillades et de crissements de pneus, il va tout faire pour tirer sa famille des griffes d’un redoutable ennemi et s’assurer que, plus jamais, personne ne le prenne pour un moins que rien."
+		},
+		{
+			"name": "D'où L'on Vient",
+			"poster": "assets/movies/banner/9.jpg",
+			"background": "assets/movies/background/9.jpeg",
+			"film_url": "RaqAlLB4KAbXp",
+			"trailer_url": "KxPWqAxHDfw",
+			"synopsis": "Au coeur de la communauté dominicaine aux Etats-Unis, Benny travaille pour le père de Nina qui gère une entreprise de taxis. Le jeune homme rêve d'ouvrir sa propre société. Il doit faire face à la forte désapprobation du père de la jeune fille à l'égard de leur union."
+		},
+		{
+			"name": "Greenland - Le Dernier Refuge",
+			"poster": "assets/movies/banner/44.jpg",
+			"background": "assets/movies/background/44.jpeg",
+			"film_url": "GbJQP7BRlA7rw",
+			"trailer_url": "NkBX1xriXKk",
+			"synopsis": "Une comète est sur le point de s’écraser sur la Terre et de provoquer un cataclysme sans précédent. John Garrity décide de se lancer dans un périlleux voyage avec son ex-épouse Allison et leur fils Nathan pour rejoindre le dernier refuge sur Terre à l’abri du désastre. Alors que l’urgence devient absolue et que les catastrophes s’enchainent de façon effrénée, les Garrity vont être témoin du meilleur comme du pire de la part d’une humanité paniquée au milieu de ce chaos."
+		},		
+		{
+			"name": "Un homme en colère",
+			"poster": "assets/movies/banner/8.jpg",
+			"background": "assets/movies/background/8.jpeg",
+			"film_url": "5YRQoRPnrA0aN",
+			"trailer_url": "p3Pv8F3k0e8",
+			"synopsis": "Un convoyeur de fond, fraîchement engagé, surprend ses collègues par l’incroyable précision de ses tirs de riposte, alors qu’ils subissent les assauts de braqueurs expérimentés. Tous se demandent désormais qui il est, d’où il vient et pourquoi il est là."
+		},
+		{
+			"name": "The Conjuring: The Devil Made Me Do It",
+			"poster": "assets/movies/banner/1.jpg",
+			"background": "assets/movies/background/1.jpeg",
+			"film_url": "8zWZ7k1z6Z6L4",
+			"trailer_url": "AhCLETpE7oQ",
+			"synopsis": "Le film retrace une affaire terrifiante de meurtre et de présence maléfique mystérieuse, qui a même ébranlé les enquêteurs paranormaux, Ed et Lorraine Warren, pourtant très aguerris. Dans cette affaire, issue de leurs dossiers secrets, l'une des plus spectaculaires, Ed et Lorraine commencent par se battre pour protéger l'âme d'un petit garçon, puis basculent dans un monde radicalement inconnu. Ce sera la première fois, dans l'histoire des États-Unis, qu'un homme, soupçonné de meurtre, plaide la possession démoniaque comme ligne de défense juridique."
+		},
+		{
+			"name": "Nomadland",
+			"poster": "assets/movies/banner/2.jpg",
+			"background": "assets/movies/background/2.jpeg",
+			"film_url": "Ng9QnerJbAVKb",
+			"trailer_url": "86dFjsrqU6o",
+			"synopsis": "Après avoir tout perdu pendant la Grande Récession, une sexagénaire se lance dans un voyage à travers l'Ouest américain, vivant comme un nomade des temps modernes."
+		},
+		{
+			"name": "Cruella",
+			"poster": "assets/movies/banner/3.jpg",
+			"background": "assets/movies/background/3.jpeg",
+			"film_url": "k4rZebRormjdb",
+			"trailer_url": "NglMdBHHDqk",
+			"synopsis": "Londres, années 70, en plein mouvement punk rock. Escroc pleine de talent, Estella est résolue à se faire un nom dans le milieu de la mode. Elle se lie d’amitié avec deux jeunes vauriens qui apprécient ses compétences d’arnaqueuse et mène avec eux une existence criminelle dans les rues de Londres. Un jour, ses créations se font remarquer par la baronne von Hellman, une grande figure de la mode, terriblement chic et horriblement snob. Mais leur relation va déclencher une série de révélations qui amèneront Estella à se laisser envahir par sa part sombre, au point de donner naissance à l’impitoyable Cruella, une brillante jeune femme assoiffée de mode et de vengeance…"
+		},
+		{
+			"name": "Sans un bruit",
+			"poster": "assets/movies/banner/4.jpg",
+			"background": "assets/movies/background/4.jpeg",
+			"film_url": "P0RQw4p82ZG34",
+			"trailer_url": "OfImjmzcvLA",
+			"synopsis": "Une famille tente de survivre sous la menace de mystérieuses créatures qui attaquent au moindre bruit. S’ils vous entendent, il est déjà trop tard."
+		},
+		{
+			"name": "The Seventh Day",
+			"poster": "assets/movies/banner/28.jpg",
+			"background": "assets/movies/background/28.jpeg",
+			"film_url": "vGqm2D56VQenO",
+			"trailer_url": "s4M-pGqr9VU",
+			"synopsis": "Un exorciste de renom fait équipe avec un prêtre débutant, pour son premier jour d’entraînement. Alors qu'ils rencontrent la représentation de l'enfer sur Terre, la frontière entre le bien et le mal s'estompe et leurs propres démons apparaissent."
+		},
+		{
+			"name": "Raya et le Dernier Dragon",
+			"poster": "assets/movies/banner/29.jpg",
+			"background": "assets/movies/background/29.jpeg",
+			"film_url": "76VAqxgkXmoqy",
+			"trailer_url": "dwNumyXq-yA",
+			"synopsis": "Il y a de cela fort longtemps, au royaume imaginaire de Kumandra, humains et dragons vivaient en harmonie. Mais un jour, une force maléfique s’abattit sur le royaume et les dragons se sacrifièrent pour sauver l’humanité. Lorsque cette force réapparait cinq siècles plus tard, Raya, une guerrière solitaire, se met en quête du légendaire dernier dragon pour restaurer l’harmonie sur la terre de Kumandra, au sein d’un peuple désormais divisé. Commence pour elle un long voyage au cours duquel elle découvrira qu’il lui faudra bien plus qu’un dragon pour sauver le monde, et que la confiance et l’entraide seront essentiels pour conduire au succès cette périlleuse mission."
+		},
+		{
+			"name": "Godzilla vs. Kong",
+			"poster": "assets/movies/banner/33.jpg",
+			"background": "assets/movies/background/33.jpeg",
+			"film_url": "6RbAx1pyRQEvV",
+			"trailer_url": "9OLRKjrdbLQ",
+			"synopsis": "À une époque où les monstres parcourent la Terre, et alors que l’humanité lutte pour son avenir, Godzilla et King Kong, les deux forces les plus puissantes de la nature, entrent en collision dans une bataille spectaculaire inédite. Alors que Monarch se lance dans une mission périlleuse en terrain inconnu, et qu’il découvre des indices sur les origines des Titans, un complot humain menace d’éradiquer ces créatures – qu’elles soient bonnes ou mauvaises – de la surface de la planète."
+		},
+		{
+			"name": "Un Espion ordinaire",
+			"poster": "assets/movies/banner/5.jpg",
+			"background": "assets/movies/background/5.jpeg",
+			"film_url": "goVAdonaNmJnE",
+			"trailer_url": "19K2K1P4us4",
+			"synopsis": "1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques…"
+		},
+		{
+			"name": "Luca",
+			"poster": "assets/movies/banner/36.jpg",
+			"background": "assets/movies/background/36.jpeg",
+			"film_url": "6RbAx1pqnQEvV",
+			"trailer_url": "18oumDE2nzo",
+			"synopsis": "Un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Luca partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : ce dernier n’est autre qu’un monstre marin venu d’un autre monde, situé juste au-dessous de la surface de l’eau…"
+		},		
+		{
+			"name": "Anna",
+			"poster": "assets/movies/banner/6.jpg",
+			"background": "assets/movies/background/6.jpeg",
+			"film_url": "9B6Z46M56AJGj",
+			"trailer_url": "w4y9vApY8Mw",
+			"synopsis": "Les Matriochka sont des poupées russes qui s’emboîtent les unes dans les autres. Chaque poupée en cache une autre. Anna est une jolie femme de 24 ans, mais qui est-elle vraiment et combien de femmes se cachent en elle ? Est-ce une simple vendeuse de poupées sur le marché de Moscou ? Un top model qui défile à Paris ? Une tueuse qui ensanglante Milan ? Un flic corrompu ? Un agent double ? Ou tout simplement une redoutable joueuse d’échecs ? Il faudra attendre la fin de la partie pour savoir qui est vraiment Anna et qui est « échec et mat »."
+		},
+		{
+			"name": "The Father",
+			"poster": "assets/movies/banner/7.jpg",
+			"background": "assets/movies/background/7.jpeg",
+			"film_url": "apwQEgazdmPKe",
+			"trailer_url": "hQupt8RDaMI",
+			"synopsis": "Alors qu’il vieillit et devient de moins en moins autonome, un père refuse l’aide de sa fille. Voyant la situation se dégrader, il commence à douter de ses proches, de son propre esprit et même de ce qui est réel."
+		},
+		{
+			"name": "Wonder Woman 1984",
+			"poster": "assets/movies/banner/10.jpg",
+			"background": "assets/movies/background/10.jpeg",
+			"film_url": "goVAdoYgxmJnE",
+			"trailer_url": "rhlHVvmVf04",
+			"synopsis": "Suite des aventures de Diana Prince, alias Wonder Woman, Amazone devenue une super-héroïne dans notre monde. Après la Première guerre mondiale, direction les années 80 ! Cette fois, Wonder Woman doit affronter deux nouveaux ennemis, particulièrement redoutables : Max Lord et Cheetah."
+		},
+		{
+			"name": "Drunk",
+			"poster": "assets/movies/banner/11.jpg",
+			"background": "assets/movies/background/11.jpeg",
+			"film_url": "YnqAKlqORQ2PJ",
+			"trailer_url": "mgk5YrcCzNk",
+			"synopsis": "Quatre amis décident de mettre en pratique la théorie d’un psychologue norvégien selon laquelle l’homme aurait dès la naissance un déficit d’alcool dans le sang. Avec une rigueur scientifique, chacun relève le défi en espérant tous que leur vie n’en sera que meilleure ! Si dans un premier temps les résultats sont encourageants, la situation devient rapidement hors de contrôle."
+		},
+		{
+			"name": "Hitman & Bodyguard",
+			"poster": "assets/movies/banner/13.jpg",
+			"background": "assets/movies/background/13.jpeg",
+			"film_url": "6RbAx1DzwQEvV",
+			"trailer_url": "wgAOlOcEAnQ",
+			"synopsis": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves… De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer."
+		},
+		{
+			"name": "Pierre Lapin",
+			"poster": "assets/movies/banner/14.jpg",
+			"background": "assets/movies/background/14.jpeg",
+			"film_url": "k4rZebLpdmjdb",
+			"trailer_url": "-MidSI9AVmk",
+			"synopsis": "Le petit lapin préféré des jeunes lecteurs depuis des générations est désormais le héros d’un film plein d’aventures et d’espièglerie ! L'éternelle lutte de Pierre Lapin avec M. McGregor pour les légumes du potager va atteindre des sommets. Sans parler de leur rivalité pour plaire à cette charmante voisine qui adore les animaux… Bien au-delà du jardin, de nombreuses péripéties les entraîneront de la magnifique région des lacs en Angleterre jusqu’à Londres !"
+		},
+		{
+			"name": "Tenet",
+			"poster": "assets/movies/banner/41.jpg",
+			"background": "assets/movies/background/41.jpeg",
+			"film_url": "vrBA1pg5Vmb8o",
+			"trailer_url": "PZRH3NebF3s",
+			"synopsis": "Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…"
+		},		
+		{
+			"name": "Seul sur Mars",
+			"poster": "assets/movies/banner/15.jpg",
+			"background": "assets/movies/background/15.jpeg",
+			"film_url": "RkaA5Y6MnAVnp",
+			"trailer_url": "-T-UoabcaH5A",
+			"synopsis": "Au cours d’une mission spatiale habitée sur Mars, et à la suite d’un violent orage, l’astronaute Mark Watney est laissé pour mort et abandonné sur place par son équipage. Mais Watney a survécu et se retrouve seul sur cette planète hostile. Avec de maigres provisions, il ne doit compter que sur son ingéniosité, son bon sens et son intelligence pour survivre et trouver un moyen d’alerter la Terre qu’il est encore vivant. À des millions de kilomètres de là, la NASA et une équipe de scientifiques internationaux travaillent sans relâche pour ramener « le Martien » sur terre, pendant que, en parallèle, ses coéquipiers tentent secrètement d’organiser une audacieuse voire impossible mission de sauvetage."
+		},
+		{
+			"name": "Kingsman : Le Cercle d'or",
+			"poster": "assets/movies/banner/17.jpg",
+			"background": "assets/movies/background/17.jpeg",
+			"film_url": "JdpmLpz7Lme7K",
+			"trailer_url": "OB0Kw7RAcKo",
+			"synopsis": "Kingsman, l’élite du renseignement britannique en costume trois pièces, fait face à une menace sans précédent. Alors qu’une bombe s’abat et détruit leur quartier général, les agents font la découverte d’une puissante organisation alliée nommée Statesman, fondée il y a bien longtemps aux Etats-Unis. Face à cet ultime danger, les deux services d’élite n’auront d’autre choix que de réunir leurs forces pour sauver le monde des griffes d’un impitoyable ennemi, qui ne reculera devant rien dans sa quête destructrice."
+		},
+		{
+			"name": "Spider-Man : Far From Home",
+			"poster": "assets/movies/banner/18.jpg",
+			"background": "assets/movies/background/18.jpeg",
+			"film_url": "P0RQw42ypZG34",
+			"trailer_url": "SFoCPkEfHEM",
+			"synopsis": "Peter et ses amis passent leurs vacances d’été en Europe. Mais ils n’auront pas vraiment l’occasion de se reposer puisque Peter accepte d’aider Nick Fury pour débusquer les mystérieuses créatures qui sont la cause des catastrophes naturelles qui frappent le continent."
+		},
+		{
+			"name": "Avengers : Endgame",
+			"poster": "assets/movies/banner/19.jpg",
+			"background": "assets/movies/background/19.jpeg",
+			"film_url": "3YMmkYKWaQByv",
+			"trailer_url": "QmXCupp4fs8",
+			"synopsis": "Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini , les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de doigts qui a pulvérisé « la moitié de toute forme de vie dans l'Univers », Captain America, Thor, Bruce Banner, Natasha Romanoff, War Machine, Tony Stark, Nébula et Rocket, vont essayer de trouver une solution pour ramener leurs coéquipiers disparus et vaincre Thanos en se faisant aider par Ronin alias Clint Barton, Captain Marvel et Ant-Man."
+		},
+		{
+			"name": "Kingsman : Services secrets",
+			"poster": "assets/movies/banner/20.jpg",
+			"background": "assets/movies/background/20.jpeg",
+			"film_url": "8zWZ7kL73Z6L4",
+			"trailer_url": "dSeA6Mwlv6A",
+			"synopsis": "Kingsman, l’élite du renseignement britannique en costumes trois pièces, est à la recherche de sang neuf. Pour recruter leur nouvel agent secret, elle doit faire subir un entrainement de haut vol à de jeunes privilégiés aspirant au job rêvé. L’un d’eux semble être le candidat « imparfaitement idéal » : un jeune homme impertinent de la banlieue londonienne nommé Eggsy. Ces super-espions parviendront-ils à contrer la terrible menace que fait peser sur le monde l’esprit torturé du criminel Richmond Valentine, génie de la technologie ?"
+		},
+		{
+			"name": "Lucy",
+			"poster": "assets/movies/banner/21.jpg",
+			"background": "assets/movies/background/21.jpeg",
+			"film_url": "w1ymMDMbdZJrb",
+			"trailer_url": "7gPrNpHaFX8",
+			"synopsis": "Lucy, une jeune étudiante ordinaire, se fait kidnapper. À son réveil, elle découvre que les membres d’une organisation criminelle lui ont inséré un paquet de drogue dans l’estomac dans le but de lui faire passer la frontière. Mais lorsqu’à la suite d’un coup porté à son ventre le produit se déverse dans son corps et s’implante dans son système, la jeune femme en subit les étonnants effets. Cette substance synthétique lui permet de décupler ses capacités intellectuelles et physiques. Devenue un génie autant qu’une véritable machine de guerre, Lucy dispose désormais de pouvoirs illimités et surhumains…"
+		},
+		{
+			"name": "Snowden",
+			"poster": "assets/movies/banner/22.jpg",
+			"background": "assets/movies/background/22.jpeg",
+			"film_url": "goVAdoYwRmJnE",
+			"trailer_url": "cJ8YXaLK73o",
+			"synopsis": "Patriote idéaliste et enthousiaste, le jeune Edward Snowden semble réaliser son rêve quand il rejoint les équipes de la CIA puis de la NSA. Il découvre alors au cœur des Services de Renseignements américains l'ampleur insoupçonnée de la cyber-surveillance. Violant la Constitution, soutenue par de grandes entreprises, la NSA collecte des montagnes de données et piste toutes les formes de télécommunications à un niveau planétaire. Choqué par cette intrusion systématique dans nos vies privées, Snowden décide de rassembler des preuves et de tout divulguer. Devenu lanceur d'alerte, il sacrifiera sa liberté et sa vie privée. En juin 2013, deux journalistes prennent le risque de le rencontrer dans une chambre d'hôtel à Hong Kong. Une course contre la montre s'engage pour analyser les preuves irréfutables présentées par Snowden avant leur publication. Les révélations qui vont être faites dans cette pièce seront au cœur du plus grand scandale d'espionnage de l'histoire des États-Unis."
+		},
+		{
+			"name": "Freaky",
+			"poster": "assets/movies/banner/23.jpg",
+			"background": "assets/movies/background/23.jpeg",
+			"film_url": "P0RQw42MEZG34",
+			"trailer_url": "NUIylaW9TiU",
+			"synopsis": "Millie Kessler, une adolescente de 17 ans, occupée à faire bonne figure dans son très élitiste lycée, Blissfield High, devient la nouvelle cible du Boucher, un tueur en série tristement notoire. Son année de Terminale va alors devenir le cadet de ses soucis. Lorsque, sous l’effet du poignard antique du Boucher ils se réveillent dans le corps de l’autre, Millie n’a alors que 24 heures pour retrouver son corps afin de ne pas rester coincée pour le restant de ses jours dans la peau d’un tueur en série d’une cinquantaine d’années. Tâche délicate étant donné qu’elle ressemble désormais à une armoire à glace psychopathe, recherché par la police et cible d’une chasse à l’homme locale… alors que le Boucher, lui, dans la peau de la jeune fille, est bien décidé à célébrer un retour en fanfare dans un bain de sang."
+		},
+		{
+			"name": "John Wick",
+			"poster": "assets/movies/banner/24.jpg",
+			"background": "assets/movies/background/24.jpeg",
+			"film_url": "dwPAVxzxzZR09",
+			"trailer_url": "pWK5crMuhHY",
+			"synopsis": "Depuis la mort de sa femme bien‐aimée, John Wick passe ses journées à retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il mène une vie sans histoire, jusqu’à ce qu’un malfrat sadique nommé Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n’acceptant pas qu’on lui résiste, s’introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy… John remonte la piste de Iosef jusqu’à New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d’un grand patron de la pègre, Viggo Tarasof. La rumeur se répand rapidement dans le milieu : le légendaire tueur cherche Iosef. Viggo met à prix la tête de John : quiconque l’abattra touchera une énorme récompense. John a désormais tous les assassins de New York aux trousses."
+		},
+		{
+			"name": "Patlabor",
+			"poster": "assets/movies/banner/25.jpg",
+			"background": "assets/movies/background/25.jpeg",
+			"film_url": "9B6Z46200AJGj",
+			"trailer_url": "O4IlTqnYZ4o",
+			"synopsis": "Dans un futur indéterminé, une nouvelle unité de police, les Patlabor, utilise des robots géants pour faire régner l'ordre. Mais des pannes inexpliquées perturbent les machines."
+		},
+		{
+			"name": "Patlabor 2",
+			"poster": "assets/movies/banner/26.jpg",
+			"background": "assets/movies/background/26.jpeg",
+			"film_url": "bNPm3rJ0vZKWe",
+			"trailer_url": "F4P8eOH89ow",
+			"synopsis": "Un missile d'origine inconnue détruit un pont de Tokyo. La police des Labors est chargée par un agent du gouvernement d'enquêter sur l'affaire..."
+		},
+		{
+			"name": "Patlabor 3",
+			"poster": "assets/movies/banner/27.jpg",
+			"background": "assets/movies/background/27.jpeg",
+			"film_url": "apwQEgVqLmPKe",
+			"trailer_url": "AiEEQvaC1aY",
+			"synopsis": "La baie de Tokyo est le théâtre de tragiques événements. Plusieurs accidents s'y produisent et l'origine du phénomène qui les cause demeure encore un mystère. Les agents Kusumi et Hata, chargés d'élucider cette sombre affaire, s'aperçoivent que les diverses victimes sont à la fois les hommes et les Labor, ces gigantesques robots mis au point par les entreprises de construction japonaises à la fin du siècle et qui permettent d'effectuer de cyclopéens travaux d'aménagement."
+		},
+		{
+			"name": "Joker",
+			"poster": "assets/movies/banner/30.jpg",
+			"background": "assets/movies/background/30.jpeg",
+			"film_url": "JdpmLpPBLme7K",
+			"trailer_url": "7CWqC3j7Y14",
+			"synopsis": "Dans les années 1980, à Gotham City, Arthur Fleck, un humoriste de stand‐up raté, bascule dans la folie et devient le Joker."
+		},
+		{
+			"name": "Birds of Prey et la fantabuleuse histoire de Harley Quinn",
+			"poster": "assets/movies/banner/31.jpg",
+			"background": "assets/movies/background/31.jpeg",
+			"film_url": "w1ymMD4aOZJrb",
+			"trailer_url": "zoE649Y_ImQ",
+			"synopsis": "Vous connaissez l’histoire du flic, de l’oiseau chanteur, de la cinglée et de la princesse mafieuse ? Birds of Prey et la fantabuleuse histoire de Harley Quinn est une histoire déjantée racontée par Harley en personne, d’une manière dont elle seule a le secret. Roman Sionis, l’ennemi le plus abominable et le plus narcissique de Gotham, ainsi que son fidèle acolyte Zsasz décident de s'en prendre à une certaine « Cass ». La ville est passée au peigne fin pour retrouver la trace de la jeune fille. Les parcours de Harley, de la Chasseuse, de Black Canary et de Renee Montoya se télescopent et ce quatuor improbable n’a d’autre choix que de faire équipe pour éliminer Roman..."
+		},
+		{
+			"name": "The Gentlemen",
+			"poster": "assets/movies/banner/32.jpg",
+			"background": "assets/movies/background/32.jpeg",
+			"film_url": "zKWm6Lb9GQ85P",
+			"trailer_url": "Njbc1FezskU",
+			"synopsis": "Quand Mickey Pearson, baron de la drogue à Londres, laisse entendre qu’il pourrait se retirer du marché, il déclenche une guerre explosive : la capitale anglaise devient le théâtre de tous les chantages, complots, trahisons, corruptions et enlèvements… Dans cette jungle où l’on ne distingue plus ses alliés de ses ennemis, il n’y a de la place que pour un seul roi !"
+		},
+		{
+			"name": "Emma.",
+			"poster": "assets/movies/banner/34.jpg",
+			"background": "assets/movies/background/34.jpeg",
+			"film_url": "r6qQNr1M1QX7w",
+			"trailer_url": "hVzT1IQmsEY",
+			"synopsis": "Adaptation du roman éponyme de Jane Austen sorti en 1815. Emma Woodhouse tente de faire rencontrer leur âme sœur aux célibataires de son cercle d'amis."
+		},
+		{
+			"name": "Greta",
+			"poster": "assets/movies/banner/35.jpg",
+			"background": "assets/movies/background/35.jpeg",
+			"film_url": "6RbAx1pqRQEvV",
+			"trailer_url": "f3hx_B0gjeE",
+			"synopsis": "Quand Frances trouve un sac à main égaré dans le métro de New York, elle trouve naturel de le rapporter à sa propriétaire. C’est ainsi qu’elle rencontre Greta, veuve esseulée aussi excentrique que mystérieuse. L’une ne demandant qu’à se faire une amie et l’autre fragilisée par la mort récente de sa mère, les deux femmes vont vite se lier d’amitié comblant ainsi les manques de leurs existences. Mais Frances n’aurait-elle pas mordu trop vite à l’hameçon ?"
+		},
+		{
+			"name": "Divorce Club",
+			"poster": "assets/movies/banner/37.jpg",
+			"background": "assets/movies/background/37.jpeg",
+			"film_url": "76VAqxg6vmoqy",
+			"trailer_url": "5eANPP1bgOc",
+			"synopsis": "Après 5 ans de mariage, Ben est toujours aussi éperdument amoureux. Jusqu’au jour où il découvre en public que sa femme le trompe : humilié et plaqué dans la foulée ! Abattu et lâché par ses proches, Ben peine à remonter la pente jusqu’à ce qu’il croise le chemin de Patrick, un ancien ami lui aussi divorcé qui lui propose d’emménager chez lui. Patrick, au contraire de Ben, entend bien profiter de son célibat retrouvé et de tous les plaisirs auxquels il avait renoncé durant son mariage. Bientôt rejoints par d’autres divorcés, les fêtards quarantenaires ébauchent les premières règles du 'Divorce Club..."
+		},
+		{
+			"name": "T'as pécho ?",
+			"poster": "assets/movies/banner/38.jpg",
+			"background": "assets/movies/background/38.jpeg",
+			"film_url": "LznARk5MwQ6xd",
+			"trailer_url": "cDuRpAiAOE8",
+			"synopsis": "Arthur, 15 ans, a un coup de foudre pour Ouassima, qui ne le regarde même pas… Alors que lui n’a jamais pécho, elle sort avec Matt, le beau gosse du collège. Pour s’approcher d’elle, Arthur rassemble une bande de losers célibataires et lui propose de leur donner des cours de péchotage, à 10 euros la leçon. Dans les vestiaires de la piscine, débute alors un long apprentissage intime et collectif sur « les filles et l’amour : mode d’emploi."
+		},
+		{
+			"name": "Monster Hunter",
+			"poster": "assets/movies/banner/39.jpg",
+			"background": "assets/movies/background/39.jpeg",
+			"film_url": "6k9QgpxVMZvxa",
+			"trailer_url": "dHiK-CVbWik",
+			"synopsis": "Notre monde en cache un autre, dominé par de puissants et dangereux monstres. Lorsque le Lieutenant Artemis et son unité d’élite traversent un portail qui les transporte dans ce monde parallèle, ils subissent le choc de leur vie. Au cours d’une tentative désespérée pour rentrer chez elle, le brave lieutenant rencontre un chasseur mystérieux, qui a survécu dans ce monde hostile grâce à ses aptitudes uniques. Faisant face à de terrifiantes et incessantes attaques de monstres, ces guerriers font équipe pour se défendre et trouver un moyen de retourner dans notre monde."
+		},
+		{
+			"name": "30 jours max",
+			"poster": "assets/movies/banner/40.jpg",
+			"background": "assets/movies/background/40.jpeg",
+			"film_url": "w1ymMD4vdZJrb",
+			"trailer_url": "R8cOK5mE5P8",
+			"synopsis": "Rayane est un jeune flic, trouillard et maladroit, sans cesse moqué par les autres policiers. Le jour où son médecin lui apprend, à tort, qu’il n’a plus que trente jours à vivre, il comprend vite qu'il s'agit de sa dernière chance de devenir un héros, à la fois au sein de son commissariat et surtout pour impressionner sa collègue Stéphanie. L’éternel craintif se transforme alors en véritable tête brûlée, qui prendra tous les risques afin de coincer un gros caïd de la drogue..."
+		},
+		{
+			"name": "365 jours",
+			"poster": "assets/movies/banner/42.jpg",
+			"background": "assets/movies/background/42.jpeg",
+			"film_url": "dloAB1LWEmzRJ",
+			"trailer_url": "4GMBhwRhHgM",
+			"synopsis": "Massimo est membre de la mafia sicilienne et Laura est directrice des ventes. Cette dernière ne se doute pas de ce qui l'attend lors d'un voyage en Sicile destiné à sauver son couple : Massimo la kidnappe et lui donne 365 jours pour qu'elle tombe amoureuse de lui."
+		}		
+	]
+}
