@@ -5,9 +5,25 @@
 			"name": "Black Widow",
 			"poster": "assets/movies/banner/43.jpg",
 			"background": "assets/movies/background/43.jpeg",
-			"film_url": "GeLZzXEg4AyOn",
+			"film_url": "9dbmXpad5myEO",
 			"trailer_url": "GNCY3_IoIsk",
 			"synopsis": "Natasha Romanoff, alias Black Widow, voit resurgir la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre, Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien avant qu’elle ne rejoigne les Avengers."
+		},
+		{
+			"name": "Space Jam - Nouvelle ère",
+			"poster": "assets/movies/banner/50.jpg",
+			"background": "assets/movies/background/50.jpeg",
+			"film_url": "RaqAlPRgaAbXp",
+			"trailer_url": "7EHpXfsB4mk",
+			"synopsis": "LeBron et son jeune fils Dom sont retenus prisonniers dans un espace numérique par une intelligence artificielle malveillante. Le joueur de basket doit ramener son petit garçon sain et sauf chez lui, en faisant triompher Bugs, Lola Bunny et leurs camarades Looney Tunes, réputés pour leur esprit frondeur, face aux champions numérisés de l'intelligence artificielle en présence : une équipe de stars de la NBA et de la WNBA, gonflés à bloc, comme on ne les a jamais vus ! Les Tunes affrontent les Goons et, pour LeBron, c'est le combat le plus risqué de sa vie : il déterminera ses rapports avec son fils et prouvera à quel point il est important de rester soi-même. Les Tunes, prêts à partir à l'assaut, renversent les conventions, misent tout sur leurs talents inégalés et surprennent même « King » James, en jouant d'une manière qui n'appartient qu'à eux."
+		},
+		{
+			"name": "Jolt",
+			"poster": "assets/movies/banner/49.jpg",
+			"background": "assets/movies/background/49.jpeg",
+			"film_url": "3YMmk3oLxmByv",
+			"trailer_url": "3BSSoD73TSk",
+			"synopsis": "Lindy est une superbe femme pleine d'humour qui porte un douloureux secret. En raison d'un trouble neurologique rare, elle éprouve des pulsions de rage et de meurtre qui ne peuvent être contrôlées que lorsqu'elle se choque avec un appareil à électrodes. Incapable de trouver l'amour et sa place dans ce monde, elle accorde finalement sa confiance à un homme dont elle tombe éperdument amoureuse avant de le retrouver assassiné. Le coeur complètement brisé et dans une colère noire, elle se donne pour mission de venger ce meurtre de cet homme tout en étant poursuivie par la police en tant que principale suspecte du crime."
 		},
 		{
 			"name": "A Classic Horror Story",
@@ -24,7 +40,7 @@
 			"film_url": "LznAR9Npqm6xd",
 			"trailer_url": "h43qitmhLxQ",
 			"synopsis": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus… Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres."
-		},		
+		},
 		{
 			"name": "Le Dragon-Génie",
 			"poster": "assets/movies/banner/46.jpg",
@@ -37,10 +53,10 @@
 			"name": "Chasseurs de trolls : Le réveil des titans",
 			"poster": "assets/movies/banner/48.jpg",
 			"background": "assets/movies/background/48.jpeg",
-			"film_url": "e9BZaMv5kZwXx",
+			"film_url": "5MVQGx2WJZEPj",
 			"trailer_url": "WWAwYs-yAwE",
 			"synopsis": "Arcadia peut ressembler à une ville ordinaire, mais elle se trouve au centre de lignes magiques et mystiques qui en font le point de convergence de nombreuses batailles entre créatures d'un autre monde, notamment des trolls, des extraterrestres et des sorciers. Différents héros vont maintenant faire équipe dans une aventure épique où ils devront combattre l'Ordre Arcane pour le contrôle de la magie qui les lie tous ensemble."
-		},		
+		},
 		{
 			"name": "Adieu les cons",
 			"poster": "assets/movies/banner/16.jpg",
@@ -72,7 +88,7 @@
 			"film_url": "GbJQP7BRlA7rw",
 			"trailer_url": "NkBX1xriXKk",
 			"synopsis": "Une comète est sur le point de s’écraser sur la Terre et de provoquer un cataclysme sans précédent. John Garrity décide de se lancer dans un périlleux voyage avec son ex-épouse Allison et leur fils Nathan pour rejoindre le dernier refuge sur Terre à l’abri du désastre. Alors que l’urgence devient absolue et que les catastrophes s’enchainent de façon effrénée, les Garrity vont être témoin du meilleur comme du pire de la part d’une humanité paniquée au milieu de ce chaos."
-		},		
+		},
 		{
 			"name": "Un homme en colère",
 			"poster": "assets/movies/banner/8.jpg",
@@ -152,7 +168,7 @@
 			"film_url": "6RbAx1pqnQEvV",
 			"trailer_url": "18oumDE2nzo",
 			"synopsis": "Un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Luca partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : ce dernier n’est autre qu’un monstre marin venu d’un autre monde, situé juste au-dessous de la surface de l’eau…"
-		},		
+		},
 		{
 			"name": "Anna",
 			"poster": "assets/movies/banner/6.jpg",
@@ -165,7 +181,7 @@
 			"name": "The Father",
 			"poster": "assets/movies/banner/7.jpg",
 			"background": "assets/movies/background/7.jpeg",
-			"film_url": "apwQEgazdmPKe",
+			"film_url": "zKWm6bkL4m85P",
 			"trailer_url": "hQupt8RDaMI",
 			"synopsis": "Alors qu’il vieillit et devient de moins en moins autonome, un père refuse l’aide de sa fille. Voyant la situation se dégrader, il commence à douter de ses proches, de son propre esprit et même de ce qui est réel."
 		},
@@ -208,7 +224,7 @@
 			"film_url": "vrBA1pg5Vmb8o",
 			"trailer_url": "PZRH3NebF3s",
 			"synopsis": "Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…"
-		},		
+		},
 		{
 			"name": "Seul sur Mars",
 			"poster": "assets/movies/banner/15.jpg",
@@ -221,7 +237,7 @@
 			"name": "Kingsman : Le Cercle d'or",
 			"poster": "assets/movies/banner/17.jpg",
 			"background": "assets/movies/background/17.jpeg",
-			"film_url": "JdpmLpz7Lme7K",
+			"film_url": "GbJQPaBq2Z7rw",
 			"trailer_url": "OB0Kw7RAcKo",
 			"synopsis": "Kingsman, l’élite du renseignement britannique en costume trois pièces, fait face à une menace sans précédent. Alors qu’une bombe s’abat et détruit leur quartier général, les agents font la découverte d’une puissante organisation alliée nommée Statesman, fondée il y a bien longtemps aux Etats-Unis. Face à cet ultime danger, les deux services d’élite n’auront d’autre choix que de réunir leurs forces pour sauver le monde des griffes d’un impitoyable ennemi, qui ne reculera devant rien dans sa quête destructrice."
 		},
@@ -365,7 +381,7 @@
 			"name": "Monster Hunter",
 			"poster": "assets/movies/banner/39.jpg",
 			"background": "assets/movies/background/39.jpeg",
-			"film_url": "6k9QgpxVMZvxa",
+			"film_url": "YnqAK3eLPA2PJ",
 			"trailer_url": "dHiK-CVbWik",
 			"synopsis": "Notre monde en cache un autre, dominé par de puissants et dangereux monstres. Lorsque le Lieutenant Artemis et son unité d’élite traversent un portail qui les transporte dans ce monde parallèle, ils subissent le choc de leur vie. Au cours d’une tentative désespérée pour rentrer chez elle, le brave lieutenant rencontre un chasseur mystérieux, qui a survécu dans ce monde hostile grâce à ses aptitudes uniques. Faisant face à de terrifiantes et incessantes attaques de monstres, ces guerriers font équipe pour se défendre et trouver un moyen de retourner dans notre monde."
 		},
@@ -384,6 +400,6 @@
 			"film_url": "dloAB1LWEmzRJ",
 			"trailer_url": "4GMBhwRhHgM",
 			"synopsis": "Massimo est membre de la mafia sicilienne et Laura est directrice des ventes. Cette dernière ne se doute pas de ce qui l'attend lors d'un voyage en Sicile destiné à sauver son couple : Massimo la kidnappe et lui donne 365 jours pour qu'elle tombe amoureuse de lui."
-		}		
+		}
 	]
 }
