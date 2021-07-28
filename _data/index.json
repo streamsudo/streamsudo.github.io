@@ -149,7 +149,7 @@
 			"name": "Godzilla vs. Kong",
 			"poster": "assets/movies/banner/33.jpg",
 			"background": "assets/movies/background/33.jpeg",
-			"film_url": "6RbAx1pyRQEvV",
+			"film_url": "vGqm25En8ZenO",
 			"trailer_url": "9OLRKjrdbLQ",
 			"synopsis": "À une époque où les monstres parcourent la Terre, et alors que l’humanité lutte pour son avenir, Godzilla et King Kong, les deux forces les plus puissantes de la nature, entrent en collision dans une bataille spectaculaire inédite. Alors que Monarch se lance dans une mission périlleuse en terrain inconnu, et qu’il découvre des indices sur les origines des Titans, un complot humain menace d’éradiquer ces créatures – qu’elles soient bonnes ou mauvaises – de la surface de la planète."
 		},
@@ -293,9 +293,17 @@
 			"name": "John Wick",
 			"poster": "assets/movies/banner/24.jpg",
 			"background": "assets/movies/background/24.jpeg",
-			"film_url": "dwPAVxzxzZR09",
+			"film_url": "aRvmOExM3QkGE",
 			"trailer_url": "pWK5crMuhHY",
 			"synopsis": "Depuis la mort de sa femme bien‐aimée, John Wick passe ses journées à retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il mène une vie sans histoire, jusqu’à ce qu’un malfrat sadique nommé Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n’acceptant pas qu’on lui résiste, s’introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy… John remonte la piste de Iosef jusqu’à New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d’un grand patron de la pègre, Viggo Tarasof. La rumeur se répand rapidement dans le milieu : le légendaire tueur cherche Iosef. Viggo met à prix la tête de John : quiconque l’abattra touchera une énorme récompense. John a désormais tous les assassins de New York aux trousses."
+		},
+		{
+			"name": "John Wick 2",
+			"poster": "assets/movies/banner/51.jpg",
+			"background": "assets/movies/background/51.jpeg",
+			"film_url": "q3LmYvgYRAENw",
+			"trailer_url": "_QtgfA8PjAw",
+			"synopsis": "John Wick est forcé de sortir de sa retraite volontaire par un de ses ex-associés qui cherche à prendre le contrôle d’une mystérieuse confrérie de tueurs internationaux. Parce qu’il est lié à cet homme par un serment, John se rend à Rome, où il va devoir affronter certains des tueurs les plus dangereux du monde."
 		},
 		{
 			"name": "Patlabor",
