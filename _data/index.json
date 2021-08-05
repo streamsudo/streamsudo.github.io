@@ -1,6 +1,14 @@
 {
 	"Owner": "StreamSudo",
 	"data": [
+    {
+			"name": "Fast & Furious 9",
+			"poster": "assets/movies/banner/58.jpg",
+			"background": "assets/movies/background/58.jpeg",
+			"film_url": "RkaA5NB24QVnp",
+			"trailer_url": "oHGOFppeqRI",
+			"synopsis": "Dominic Toretto mène une vie tranquille en dehors de la grille avec Letty et son fils, le petit Brian, mais ils savent que le danger se cache toujours juste au-dessus de leur horizon paisible. Cette fois, cette menace obligera Dom à affronter les péchés de son passé s’il veut sauver ceux qu’il aime le plus. Son équipage se réunit pour arrêter un complot bouleversant mené par l'assassin le plus talentueux et le pilote de haute performance qu'ils aient jamais rencontré: un homme qui se trouve être également le frère abandonné de Dom, Jakob."
+		},
 		{
 			"name": "Black Widow",
 			"poster": "assets/movies/banner/43.jpg",
@@ -39,7 +47,7 @@
 			"background": "assets/movies/background/47.jpeg",
 			"film_url": "LznAR9Npqm6xd",
 			"trailer_url": "h43qitmhLxQ",
-			"synopsis": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus… Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres."
+			"synopsis": "Les Croods ont survécu à leur part de dangers et de catastrophes mais ils vont maintenant devoir relever leur plus grand défi : rencontrer une autre famille. Les Croods ont besoin d’un nouvel endroit où habiter. La famille préhistorique part alors en quête d’un endroit plus sûr. Quand ils découvrent un paradis idyllique entouré de murs, ils pensent que tous leurs problèmes sont résolus... Mais une famille y vit déjà : les Bettermans. Avec leur cabane dans les arbres, leurs inventions étonnantes et leurs hectares irrigués de produits frais, Les Bettermans sont bien au‐dessus des Croods sur l’échelle de l’évolution. Ils accueillent les Croods avec joie, mais les tensions ne tardent pas à s’intensifier entre la famille des grottes et la famille moderne. Mais une nouvelle menace va propulser les deux familles dans une aventure épique hors des murs, ce qui les obligera à accepter leurs différences et à se servir des forces des uns et des autres."
 		},
 		{
 			"name": "Le Dragon-Génie",
@@ -49,6 +57,22 @@
 			"trailer_url": "HzH_Z_H9IFU",
 			"synopsis": "Din, un étudiant ambitieux mais sans le sou, et Long, un dragon cynique mais tout-puissant capable d'exaucer des vœux, se lancent dans une aventure délirante à travers le Shanghai d'aujourd'hui à la recherche de Lina, une amie d'enfance que Din n'a pas revue depuis longtemps. Leur périple les conduira à se poser certaines questions existentielles, car si l'on peut obtenir tout ce que l'on souhaite, il faut alors déterminer ce qui compte réellement."
 		},
+    {
+			"name": "Chernobyl : Under Fire",
+			"poster": "assets/movies/banner/59.jpg",
+			"background": "assets/movies/background/59.jpeg",
+			"film_url": "vrBA1X6xlmb8o",
+			"trailer_url": "RK-rnxdK-6Q",
+			"synopsis": "26 avril 1986, la catastrophe nucléaire à Tchernobyl est en cours. Bientôt les nappes phréatiques risquent d'être contaminées sans l'intervention de l'homme. Les scientifiques et les représentants du Kremlin appellent au courage et à la loyauté patriotique de trois hommes. Les volontaires doivent plonger dans des eaux contaminées du sous-sol du réacteur n°4 qui vient d'exploser afin de vider le réservoir. Ces trois hommes sont communément appelés l’escouade-suicide."
+		},
+    {
+			"name": "Batman : The Long Halloween 1ère Partie",
+			"poster": "assets/movies/banner/53.jpg",
+			"background": "assets/movies/background/53.jpeg",
+			"film_url": "w1ymMYNDnmJrb",
+			"trailer_url": "8qodAY3S7Dg",
+			"synopsis": "Batman doit s'attaquer à un tueur en série qui ne tue que les jours fériés, comme Halloween, Thanksgiving et Noël, et qui s'en prend mystérieusement et brutalement aux citoyens de Gotham City."
+		},
 		{
 			"name": "Chasseurs de trolls : Le réveil des titans",
 			"poster": "assets/movies/banner/48.jpg",
@@ -56,6 +80,30 @@
 			"film_url": "5MVQGx2WJZEPj",
 			"trailer_url": "WWAwYs-yAwE",
 			"synopsis": "Arcadia peut ressembler à une ville ordinaire, mais elle se trouve au centre de lignes magiques et mystiques qui en font le point de convergence de nombreuses batailles entre créatures d'un autre monde, notamment des trolls, des extraterrestres et des sorciers. Différents héros vont maintenant faire équipe dans une aventure épique où ils devront combattre l'Ordre Arcane pour le contrôle de la magie qui les lie tous ensemble."
+		},
+    {
+			"name": "Dernier soleil",
+			"poster": "assets/movies/banner/52.jpg",
+			"background": "assets/movies/background/52.jpeg",
+			"film_url": "2KGZ918VrZ4Bn",
+			"trailer_url": "taPJj-kBVD0",
+			"synopsis": "Quelque part dans le nord-est de la France, Eric, un voyou sans envergure, peine à s’occuper d’Esteban, son fils d’une dizaine d’années. Le jour où Esteban est kidnappé par sa faute, Eric, bouleversé, refuse de prévenir la police. Enragé, il décide de le sauver à sa manière, déterminé à tout faire pour réunir la rançon."
+		},
+    {
+			"name": "Good on paper",
+			"poster": "assets/movies/banner/54.jpg",
+			"background": "assets/movies/background/54.jpeg",
+			"film_url": "e9BZaoe5jAwXx",
+			"trailer_url": "ejLgREMe7CU",
+			"synopsis": "Après des années à faire passer sa carrière avant l'amour, la comique Andrea Singer est tombée sur l'homme idéal. Sur le papier, il remplit toutes les conditions, mais est-il vraiment ce qu'il semble être ?"
+		},
+    {
+			"name": "Limbo",
+			"poster": "assets/movies/banner/55.jpg",
+			"background": "assets/movies/background/55.jpeg",
+			"film_url": "76VAqO8vkZoqy",
+			"trailer_url": "3O--8AuuhgA",
+			"synopsis": "Omar est un jeune musicien prometteur. Séparé de sa famille syrienne, il est coincé sur une île écossaise éloignée en attendant le sort de sa demande d'asile."
 		},
 		{
 			"name": "Adieu les cons",
@@ -89,6 +137,22 @@
 			"trailer_url": "NkBX1xriXKk",
 			"synopsis": "Une comète est sur le point de s’écraser sur la Terre et de provoquer un cataclysme sans précédent. John Garrity décide de se lancer dans un périlleux voyage avec son ex-épouse Allison et leur fils Nathan pour rejoindre le dernier refuge sur Terre à l’abri du désastre. Alors que l’urgence devient absolue et que les catastrophes s’enchainent de façon effrénée, les Garrity vont être témoin du meilleur comme du pire de la part d’une humanité paniquée au milieu de ce chaos."
 		},
+    {
+			"name": "Méandre",
+			"poster": "assets/movies/banner/57.jpg",
+			"background": "assets/movies/background/57.jpeg",
+			"film_url": "RkaA5N814QVnp",
+			"trailer_url": "5uDdErEwmuw",
+			"synopsis": "Une jeune femme se réveille dans un tube rempli de pièges mortels. Pour ne pas mourir, elle devra constamment avancer..."
+		},
+    {
+			"name": "Wildland",
+			"poster": "assets/movies/banner/56.jpg",
+			"background": "assets/movies/background/56.jpeg",
+			"film_url": "dwPAVNXR6AR09",
+			"trailer_url": "INsu0xRA5sQ",
+			"synopsis": "À la suite d'un accident de voiture qui tue sa mère, Ida, 17 ans, emménage chez sa tante et les fils de cette dernière. Le foyer est rempli de tendresse et d'amour, mais à l'extérieur, la famille mène une vie violente et criminelle. Lorsqu'un meurtre imprévu met sous pression la famille et sa loyauté envers les autres, la tension monte..."
+		},
 		{
 			"name": "Un homme en colère",
 			"poster": "assets/movies/banner/8.jpg",
@@ -119,7 +183,7 @@
 			"background": "assets/movies/background/3.jpeg",
 			"film_url": "k4rZebRormjdb",
 			"trailer_url": "NglMdBHHDqk",
-			"synopsis": "Londres, années 70, en plein mouvement punk rock. Escroc pleine de talent, Estella est résolue à se faire un nom dans le milieu de la mode. Elle se lie d’amitié avec deux jeunes vauriens qui apprécient ses compétences d’arnaqueuse et mène avec eux une existence criminelle dans les rues de Londres. Un jour, ses créations se font remarquer par la baronne von Hellman, une grande figure de la mode, terriblement chic et horriblement snob. Mais leur relation va déclencher une série de révélations qui amèneront Estella à se laisser envahir par sa part sombre, au point de donner naissance à l’impitoyable Cruella, une brillante jeune femme assoiffée de mode et de vengeance…"
+			"synopsis": "Londres, années 70, en plein mouvement punk rock. Escroc pleine de talent, Estella est résolue à se faire un nom dans le milieu de la mode. Elle se lie d’amitié avec deux jeunes vauriens qui apprécient ses compétences d’arnaqueuse et mène avec eux une existence criminelle dans les rues de Londres. Un jour, ses créations se font remarquer par la baronne von Hellman, une grande figure de la mode, terriblement chic et horriblement snob. Mais leur relation va déclencher une série de révélations qui amèneront Estella à se laisser envahir par sa part sombre, au point de donner naissance à l’impitoyable Cruella, une brillante jeune femme assoiffée de mode et de vengeance..."
 		},
 		{
 			"name": "Sans un bruit",
@@ -159,7 +223,7 @@
 			"background": "assets/movies/background/5.jpeg",
 			"film_url": "goVAdonaNmJnE",
 			"trailer_url": "19K2K1P4us4",
-			"synopsis": "1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques…"
+			"synopsis": "1960. Modeste représentant de commerce anglais, Greville Wynne se retrouve plongé au cœur de la guerre froide. À la demande du MI-6 et de la CIA, il noue une alliance aussi secrète que périlleuse avec le colonel soviétique Oleg Penkovsky. Objectif : fournir les renseignements nécessaires aux Occidentaux pour éviter un affrontement nucléaire et désamorcer la crise des missiles de Cuba. Il entame alors une série d'allers-retours entre Londres et Moscou en prenant de plus en plus de risques..."
 		},
 		{
 			"name": "Luca",
@@ -167,7 +231,7 @@
 			"background": "assets/movies/background/36.jpeg",
 			"film_url": "6RbAx1pqnQEvV",
 			"trailer_url": "18oumDE2nzo",
-			"synopsis": "Un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Luca partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : ce dernier n’est autre qu’un monstre marin venu d’un autre monde, situé juste au-dessous de la surface de l’eau…"
+			"synopsis": "Un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Luca partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : ce dernier n’est autre qu’un monstre marin venu d’un autre monde, situé juste au-dessous de la surface de l’eau..."
 		},
 		{
 			"name": "Anna",
@@ -207,7 +271,7 @@
 			"background": "assets/movies/background/13.jpeg",
 			"film_url": "6RbAx1DzwQEvV",
 			"trailer_url": "wgAOlOcEAnQ",
-			"synopsis": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves… De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer."
+			"synopsis": "Un redoutable tueur à gages est contraint de témoigner contre son ancien employeur devant la Cour internationale de justice de La Haye. Interpol est alors chargée de l’escorter jusqu’aux Pays-Bas et engage le meilleur garde du corps du métier pour mener à bien cette mission. Mais c’était sans savoir que depuis des années, les deux hommes s’opposent : les voilà désormais obligés de s’associer pour tenter de survivre aux pires épreuves... De l’Angleterre à La Haye, ils vont vivre une aventure délirante, une succession infernale de tentatives de meurtre, de courses-poursuites pour échapper à un dictateur d’Europe de l’Est prêt à tout pour les éliminer."
 		},
 		{
 			"name": "Pierre Lapin",
@@ -215,7 +279,7 @@
 			"background": "assets/movies/background/14.jpeg",
 			"film_url": "k4rZebLpdmjdb",
 			"trailer_url": "-MidSI9AVmk",
-			"synopsis": "Le petit lapin préféré des jeunes lecteurs depuis des générations est désormais le héros d’un film plein d’aventures et d’espièglerie ! L'éternelle lutte de Pierre Lapin avec M. McGregor pour les légumes du potager va atteindre des sommets. Sans parler de leur rivalité pour plaire à cette charmante voisine qui adore les animaux… Bien au-delà du jardin, de nombreuses péripéties les entraîneront de la magnifique région des lacs en Angleterre jusqu’à Londres !"
+			"synopsis": "Le petit lapin préféré des jeunes lecteurs depuis des générations est désormais le héros d’un film plein d’aventures et d’espièglerie ! L'éternelle lutte de Pierre Lapin avec M. McGregor pour les légumes du potager va atteindre des sommets. Sans parler de leur rivalité pour plaire à cette charmante voisine qui adore les animaux... Bien au-delà du jardin, de nombreuses péripéties les entraîneront de la magnifique région des lacs en Angleterre jusqu’à Londres !"
 		},
 		{
 			"name": "Tenet",
@@ -223,7 +287,7 @@
 			"background": "assets/movies/background/41.jpeg",
 			"film_url": "vrBA1pg5Vmb8o",
 			"trailer_url": "PZRH3NebF3s",
-			"synopsis": "Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel…"
+			"synopsis": "Muni d'un seul mot – Tenet – et décidé à se battre pour sauver le monde, notre protagoniste sillonne l'univers crépusculaire de l'espionnage international. Sa mission le projettera dans une dimension qui dépasse le temps. Pourtant, il ne s'agit pas d'un voyage dans le temps, mais d'un renversement temporel..."
 		},
 		{
 			"name": "Seul sur Mars",
@@ -271,7 +335,7 @@
 			"background": "assets/movies/background/21.jpeg",
 			"film_url": "w1ymMDMbdZJrb",
 			"trailer_url": "7gPrNpHaFX8",
-			"synopsis": "Lucy, une jeune étudiante ordinaire, se fait kidnapper. À son réveil, elle découvre que les membres d’une organisation criminelle lui ont inséré un paquet de drogue dans l’estomac dans le but de lui faire passer la frontière. Mais lorsqu’à la suite d’un coup porté à son ventre le produit se déverse dans son corps et s’implante dans son système, la jeune femme en subit les étonnants effets. Cette substance synthétique lui permet de décupler ses capacités intellectuelles et physiques. Devenue un génie autant qu’une véritable machine de guerre, Lucy dispose désormais de pouvoirs illimités et surhumains…"
+			"synopsis": "Lucy, une jeune étudiante ordinaire, se fait kidnapper. À son réveil, elle découvre que les membres d’une organisation criminelle lui ont inséré un paquet de drogue dans l’estomac dans le but de lui faire passer la frontière. Mais lorsqu’à la suite d’un coup porté à son ventre le produit se déverse dans son corps et s’implante dans son système, la jeune femme en subit les étonnants effets. Cette substance synthétique lui permet de décupler ses capacités intellectuelles et physiques. Devenue un génie autant qu’une véritable machine de guerre, Lucy dispose désormais de pouvoirs illimités et surhumains..."
 		},
 		{
 			"name": "Snowden",
@@ -287,7 +351,7 @@
 			"background": "assets/movies/background/23.jpeg",
 			"film_url": "P0RQw42MEZG34",
 			"trailer_url": "NUIylaW9TiU",
-			"synopsis": "Millie Kessler, une adolescente de 17 ans, occupée à faire bonne figure dans son très élitiste lycée, Blissfield High, devient la nouvelle cible du Boucher, un tueur en série tristement notoire. Son année de Terminale va alors devenir le cadet de ses soucis. Lorsque, sous l’effet du poignard antique du Boucher ils se réveillent dans le corps de l’autre, Millie n’a alors que 24 heures pour retrouver son corps afin de ne pas rester coincée pour le restant de ses jours dans la peau d’un tueur en série d’une cinquantaine d’années. Tâche délicate étant donné qu’elle ressemble désormais à une armoire à glace psychopathe, recherché par la police et cible d’une chasse à l’homme locale… alors que le Boucher, lui, dans la peau de la jeune fille, est bien décidé à célébrer un retour en fanfare dans un bain de sang."
+			"synopsis": "Millie Kessler, une adolescente de 17 ans, occupée à faire bonne figure dans son très élitiste lycée, Blissfield High, devient la nouvelle cible du Boucher, un tueur en série tristement notoire. Son année de Terminale va alors devenir le cadet de ses soucis. Lorsque, sous l’effet du poignard antique du Boucher ils se réveillent dans le corps de l’autre, Millie n’a alors que 24 heures pour retrouver son corps afin de ne pas rester coincée pour le restant de ses jours dans la peau d’un tueur en série d’une cinquantaine d’années. Tâche délicate étant donné qu’elle ressemble désormais à une armoire à glace psychopathe, recherché par la police et cible d’une chasse à l’homme locale... alors que le Boucher, lui, dans la peau de la jeune fille, est bien décidé à célébrer un retour en fanfare dans un bain de sang."
 		},
 		{
 			"name": "John Wick",
@@ -295,7 +359,7 @@
 			"background": "assets/movies/background/24.jpeg",
 			"film_url": "aRvmOExM3QkGE",
 			"trailer_url": "pWK5crMuhHY",
-			"synopsis": "Depuis la mort de sa femme bien‐aimée, John Wick passe ses journées à retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il mène une vie sans histoire, jusqu’à ce qu’un malfrat sadique nommé Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n’acceptant pas qu’on lui résiste, s’introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy… John remonte la piste de Iosef jusqu’à New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d’un grand patron de la pègre, Viggo Tarasof. La rumeur se répand rapidement dans le milieu : le légendaire tueur cherche Iosef. Viggo met à prix la tête de John : quiconque l’abattra touchera une énorme récompense. John a désormais tous les assassins de New York aux trousses."
+			"synopsis": "Depuis la mort de sa femme bien‐aimée, John Wick passe ses journées à retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il mène une vie sans histoire, jusqu’à ce qu’un malfrat sadique nommé Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n’acceptant pas qu’on lui résiste, s’introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy... John remonte la piste de Iosef jusqu’à New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d’un grand patron de la pègre, Viggo Tarasof. La rumeur se répand rapidement dans le milieu : le légendaire tueur cherche Iosef. Viggo met à prix la tête de John : quiconque l’abattra touchera une énorme récompense. John a désormais tous les assassins de New York aux trousses."
 		},
 		{
 			"name": "John Wick 2",
@@ -351,7 +415,7 @@
 			"background": "assets/movies/background/32.jpeg",
 			"film_url": "zKWm6Lb9GQ85P",
 			"trailer_url": "Njbc1FezskU",
-			"synopsis": "Quand Mickey Pearson, baron de la drogue à Londres, laisse entendre qu’il pourrait se retirer du marché, il déclenche une guerre explosive : la capitale anglaise devient le théâtre de tous les chantages, complots, trahisons, corruptions et enlèvements… Dans cette jungle où l’on ne distingue plus ses alliés de ses ennemis, il n’y a de la place que pour un seul roi !"
+			"synopsis": "Quand Mickey Pearson, baron de la drogue à Londres, laisse entendre qu’il pourrait se retirer du marché, il déclenche une guerre explosive : la capitale anglaise devient le théâtre de tous les chantages, complots, trahisons, corruptions et enlèvements... Dans cette jungle où l’on ne distingue plus ses alliés de ses ennemis, il n’y a de la place que pour un seul roi !"
 		},
 		{
 			"name": "Emma.",
@@ -383,7 +447,7 @@
 			"background": "assets/movies/background/38.jpeg",
 			"film_url": "LznARk5MwQ6xd",
 			"trailer_url": "cDuRpAiAOE8",
-			"synopsis": "Arthur, 15 ans, a un coup de foudre pour Ouassima, qui ne le regarde même pas… Alors que lui n’a jamais pécho, elle sort avec Matt, le beau gosse du collège. Pour s’approcher d’elle, Arthur rassemble une bande de losers célibataires et lui propose de leur donner des cours de péchotage, à 10 euros la leçon. Dans les vestiaires de la piscine, débute alors un long apprentissage intime et collectif sur « les filles et l’amour : mode d’emploi."
+			"synopsis": "Arthur, 15 ans, a un coup de foudre pour Ouassima, qui ne le regarde même pas... Alors que lui n’a jamais pécho, elle sort avec Matt, le beau gosse du collège. Pour s’approcher d’elle, Arthur rassemble une bande de losers célibataires et lui propose de leur donner des cours de péchotage, à 10 euros la leçon. Dans les vestiaires de la piscine, débute alors un long apprentissage intime et collectif sur « les filles et l’amour : mode d’emploi."
 		},
 		{
 			"name": "Monster Hunter",
